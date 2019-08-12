@@ -1,55 +1,80 @@
-@template nnw_page_no_title.html
+@template nnw_home.html
 @title Open Source RSS Reader for Mac
 
-<b>NetNewsWire 5.0</b> is a free and open source feed reader for macOS.
+<b>NetNewsWire 5.0</b> is a free and open source RSS reader for Mac. (We’re also working on an iOS version.)
 
-It’s [so basic it’s not even funny](http://inessential.com/2018/12/05/so_basic_its_not_even_funny). By design.
+The Mac version is not quite shipping — it’s <i>almost</i> in beta — but you can still download it and use it. 
 
-It’s usable, but it’s not actually shipping. It includes syncing via [FeedBin](https://feedbin.com/).
+<p class="downloadLink"><a href="https://ranchero.com/downloads/NetNewsWire-Latest.zip">Download NetNewsWire 5.0a4 for Mac</a><br />
+<span class="systemRequirements">Free! Requires macOS 10.14.4 or newer</span></p>
 
-You can:
+NetNewsWire shows you articles from your favorite blogs and news sites, and it keeps track of what you’ve read.
 
-<ul><li><a href="https://ranchero.com/downloads/NetNewsWire-Latest.zip">Download the latest build</a></li>
-<li><a href="https://github.com/brentsimmons/NetNewsWire/issues">Report bugs and make feature requests</a></li>
-<li><a href="https://github.com/brentsimmons/NetNewsWire">Checkout the code</a></li>
-<li><a href="https://nnw.ranchero.com/">Read the blog</a></li>
-<li><a href="https://github.com/brentsimmons/NetNewsWire/blob/master/Technotes/Roadmap.md">Read the roadmap</a></li>
-<li><a href="https://netnewswire.slack.com/join/shared_invite/enQtNjM4MDA1MjQzMDkzLTNlNjBhOWVhYzdhYjA4ZWFhMzQ1MTUxYjU0NTE5ZGY0YzYwZWJhNjYwNTNmNTg2NjIwYWY4YzhlYzk5NmU3ZTc">Join the Slack group</a></li></ul>
+If you’ve been going from page to page in your browser looking for new articles to read, you can let NetNewsWire bring them to you instead.
 
-#### To Do
+If you’ve been getting your news from the social networking services — with their ads, algorithms, and user tracking — you can get your news from your favorite sites directly and more reliably with NetNewsWire.
 
-It’s close to reaching the [5.0 beta milestone](https://github.com/brentsimmons/NetNewsWire/milestone/2). Once we have no known bugs and the Help book is written, then it will reach beta.
 
-A few notes about the future:
+## Features
 
-* We are working on an iOS version, but we will ship the Mac version first.
-* We don’t plan on making a for-pay version ever. [This app is written for love](http://inessential.com/2015/06/30/love), not money.
-* Future versions will add syncing via [Feedly](https://feedly.com/), [Feed Wrangler](https://feedwrangler.net/), and others, though we make no promises about which ones and when.
+We value stability, performance, quality, and platform-specific design over features. But NetNewsWire does have some features. :)
 
-#### Technical Notes
+* Safari extension for easy feed-adding
+* Direct feed-downloading
+* Syncing via Feedbin
+* Sharing to Mail, MarsEdit, Micro.blog, Notes, Messages, and so on
+* Easy keyboard navigation
+* AppleScript support
+* Dark Mode
+* Starred articles
+* All Unread and Today smart feeds
+* Folders
+* Importing and exporting OPML feed lists
+* Searching
+* Help book
+* Multiple accounts
 
-NetNewsWire supports <a href="http://cyber.harvard.edu/rss/rss.html">RSS</a>, <a href="https://tools.ietf.org/html/rfc4287">Atom</a>, <a href="https://jsonfeed.org/">JSON Feed</a>, and <a href="https://github.com/scripting/Scripting-News/blob/master/rss-in-json/README.md">RSS-in-JSON</a>.
+We’ll be adding more in future releases, of course, including support for more syncing services.
 
-NetNewsWire requires macOS 10.14.4 or greater.
 
-#### About Using the Code
+## Community and Support
 
-You’re free to use the code and make your own app, even on iOS. It’s MIT-licensed. Just give us credit and call it something besides NetNewsWire.
+NetNewsWire is open source and made by volunteers. We don’t have a dedicated support line. You can email <a href="mailto:brent@ranchero.com">brent@ranchero.com</a>, but this is probably the <i>slowest</i> way to get help.
 
-In fact, <i>please do</i> use any or all of this code. If you can learn from it — things to do or things *not* to do — then great! Creating a full-featured example Mac app of use to other developers is one of our goals.
+Instead, consider joining the <a href="https://netnewswire.slack.com/join/shared_invite/enQtNjM4MDA1MjQzMDkzLTNlNjBhOWVhYzdhYjA4ZWFhMzQ1MTUxYjU0NTE5ZGY0YzYwZWJhNjYwNTNmNTg2NjIwYWY4YzhlYzk5NmU3ZTc">NetNewsWire Slack group</a>. You can ask questions there — and also help us think things through as we talk about future versions. It’s the home of the NetNewsWire community.
 
-Most of the code is written in Swift. Some older parts, particularly in the frameworks, are written in Objective-C. We think this is one of the largest open source Mac apps written mostly in Swift.
+You can make feature requests and add bug reports to our <a href="https://github.com/brentsimmons/NetNewsWire/issues">bug tracker on GitHub</a>.
 
-#### NetNewsWire History
+To keep up with NetNewsWire news, <a href="https://nnw.ranchero.com/">read the blog</a> (it’s a default feed for new users).
 
-The app was started in 2002. After a couple acquisitions, [it returned to its original home](http://inessential.com/2018/08/31/netnewswire_comes_home) — right here — on August 31, 2018.
 
-#### Other RSS Readers
+## Contributing
 
-If you don’t use NetNewsWire, please consider using some other RSS reader! There are a bunch of good ones.
+<a href="https://github.com/brentsimmons/NetNewsWire/blob/master/CONTRIBUTING.md">We welcome contributors!</a> Contributions don’t have to be code. Just getting on the Slack group and talking things over is a contribution.
 
-For a list of RSS readers — and other cool open web apps — see [macopenweb.com](https://macopenweb.com/).
+The list of major contributors, after Brent Simmons, includes [Maurice Parker](https://github.com/vincode-io), [Brad Ellis](https://twitter.com/BradEllis), [Olof Hellman](https://github.com/olofhellman), [Daniel Jalkut](https://github.com/danielpunkass), and [Ryan Dotson](https://nostodnayr.net/). Your name could be on that list!
 
-#### How to contact us
+Also see <a href="https://github.com/brentsimmons/NetNewsWire/blob/master/Technotes/HowToSupportNetNewsWire.markdown">How to Support NetNewsWire</a>. Spoiler: don’t send money. :)
 
-You can reach the developer [@brentsimmons on Micro.blog](https://micro.blog/brentsimmons), make bugs and feature requests on the [bug tracker](https://github.com/brentsimmons/NetNewsWire/issues), or send email to Brent Simmons (`brent` at the domain for this site). Or — better still — you can [join the Slack group](https://netnewswire.slack.com/join/shared_invite/enQtNjM4MDA1MjQzMDkzLTNlNjBhOWVhYzdhYjA4ZWFhMzQ1MTUxYjU0NTE5ZGY0YzYwZWJhNjYwNTNmNTg2NjIwYWY4YzhlYzk5NmU3ZTc).
+
+## Why Write an RSS Reader
+
+We support the open web. The big social networking sites are damaging society and eroding democracy — and we believe one of the ways out of this is to get our news via the open web rather than from Twitter and Facebook.
+
+NetNewsWire is part of repairing <a href="https://anildash.com/2012/12/13/the_web_we_lost/">the web we lost</a>, and it’s part of building the web we want. That future web should not include viral hate speech, abuse, massive corporate surveillance, and succesful influence operations by hostile governments and entities opposed to democracy.
+
+NetNewsWire isn’t <i>the</i> answer — it’s <i>an</i> answer. It’s just a small part of what needs to be done. But it’s the work we personally know how to do, so we do it.
+
+We also love high-quality Mac and iOS apps, and we hope that NetNewsWire will be an example. <a href="https://github.com/brentsimmons/NetNewsWire">The code is available</a> for anyone to learn from and use. We believe it’s one of the largest open source projects written (mostly) in Swift.
+
+
+## Other Links
+
+Brent’s blog: <a href="https://inessential.com/">inessential.com</a><br />
+<a href="https://twitter.com/netnewswire">NetNewsWire on Twitter</a> (yes, we know how that looks, but we’re pragmatic)
+
+Open web friends:<br />
+[MarsEdit](https://www.red-sweater.com/marsedit/)<br />
+[Micro.blog](https://micro.blog/)<br />
+[Overcast](https://overcast.fm/)<br />
+[macopenweb.com](https://macopenweb.com/)
