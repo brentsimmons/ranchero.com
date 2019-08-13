@@ -33,6 +33,8 @@ For most of its development life, the app was called Evergreen. When Brent [acqu
 
 NetNewsWire 5.0 is, in a technical sense, Evergreen 1.0. You can even still see the name in the bundle ID for the app, which is `com.ranchero.NetNewsWire-Evergreen`.
 
+(In other words: NetNewsWire 5 does not use any code from previous versions of NetNewsWire. It’s a brand-new app.)
+
 ### Is NetNewsWire 5 a drop-in replacement for NetNewsWire 3? Or NetNewsWire 4?
 
 It’s not — it’s a separate app with a separate ID. You can run old versions alongside the new app.
