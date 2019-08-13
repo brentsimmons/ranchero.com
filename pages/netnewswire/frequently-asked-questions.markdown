@@ -31,9 +31,7 @@ The best place is [GitHub issues for NetNewsWire](https://github.com/brentsimmon
 
 For most of its development life, the app was called Evergreen. When Brent [acquired the name NetNewsWire back from Black Pixel](https://inessential.com/2018/08/31/netnewswire_comes_home), Evergreen was renamed to NetNewsWire.
 
-NetNewsWire 5.0 is, in a technical sense, Evergreen 1.0. You can even still see the name in the bundle ID for the app, which is `com.ranchero.NetNewsWire-Evergreen`.
-
-(In other words: NetNewsWire 5 does not use any code from previous versions of NetNewsWire. It’s a brand-new app.)
+(NetNewsWire 5 does not use any code from previous versions of NetNewsWire. It’s a brand-new app.)
 
 ### Is NetNewsWire 5 a drop-in replacement for NetNewsWire 3? Or NetNewsWire 4?
 
