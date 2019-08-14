@@ -5,7 +5,7 @@
 
 The Mac version is not quite shipping — it’s in beta — but you can still download it and use it. 
 
-<p class="downloadLink"><a href="https://ranchero.com/downloads/NetNewsWire-Latest.zip">Download NetNewsWire 5.0b2 for Mac</a><br />
+<p class="downloadLink"><a href="https://ranchero.com/downloads/NetNewsWire-Latest.zip">Download NetNewsWire 5.0b3 for Mac</a><br />
 <span class="systemRequirements">Free! Requires macOS 10.14.4 or newer</span></p>
 
 NetNewsWire shows you articles from your favorite blogs and news sites, and it keeps track of what you’ve read.
