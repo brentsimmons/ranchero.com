@@ -68,6 +68,17 @@ NetNewsWire isn’t <i>the</i> answer — it’s <i>an</i> answer. It’s just 
 We also love high-quality Mac and iOS apps, and we hope that NetNewsWire will be an example. <a href="https://github.com/brentsimmons/NetNewsWire">The code is available</a> for anyone to learn from and use. We believe it’s one of the largest open source projects written (mostly) in Swift.
 
 
+## NetNewsWire Users Say Nice Things
+
+Paul Kafasis, CEO, [Rogue Amoeba](https://rogueamoeba.com/):
+
+> NetNewsWire was the very first RSS reader I used on Mac OS X, and set the standard. I’m thrilled to be able to use it once again almost two decades later. RSS isn’t dead, and neither is the Mac’s best RSS reader!
+
+Daniel Jalkut, [MarsEdit](https://red-sweater.com/marsedit/) developer:
+
+> For 15 years, NetNewsWire has been my primary tool for navigating the broad spectrum of blogs, newspapers, magazines, and other publications that I want to keep up with on the web. I’m so excited to see it revitalized with version 5.0. Here’s to 15 more years of NetNewsWire and the open web!
+
+
 ## Other Links
 
 Brent’s blog: <a href="https://inessential.com/">inessential.com</a><br />
