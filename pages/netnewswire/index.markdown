@@ -89,4 +89,5 @@ Open web friends:<br />
 [MarsEdit](https://www.red-sweater.com/marsedit/)<br />
 [Micro.blog](https://micro.blog/)<br />
 [Overcast](https://overcast.fm/)<br />
-[macopenweb.com](https://macopenweb.com/)
+[Feed Compass](https://vincode.io/feed-compass/)<br />
+[macopenweb.com](https://macopenweb.com/) (includes a list of other good RSS readers)
