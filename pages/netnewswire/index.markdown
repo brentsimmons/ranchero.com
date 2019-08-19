@@ -61,7 +61,7 @@ Also see <a href="https://github.com/brentsimmons/NetNewsWire/blob/master/Techno
 
 We support the open web. The big social networking sites are damaging society and eroding democracy — and we believe one of the ways out of this is to get our news via the open web rather than from Twitter and Facebook.
 
-NetNewsWire is part of repairing <a href="https://anildash.com/2012/12/13/the_web_we_lost/">the web we lost</a>, and it’s part of building the web we want. That future web should not include viral hate speech, abuse, massive corporate surveillance, and succesful influence operations by hostile governments and entities opposed to democracy.
+NetNewsWire is part of repairing <a href="https://anildash.com/2012/12/13/the_web_we_lost/">the web we lost</a>, and it’s part of building the web we want. That future web should not include viral hate speech, abuse, massive corporate surveillance, or succesful influence operations by hostile governments and entities opposed to democracy.
 
 NetNewsWire isn’t <i>the</i> answer — it’s <i>an</i> answer. It’s just a small part of what needs to be done. But it’s the work we personally know how to do, so we do it.
 
