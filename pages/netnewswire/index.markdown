@@ -81,6 +81,7 @@ Daniel Jalkut, [MarsEdit](https://red-sweater.com/marsedit/) developer:
 
 ## Other Links
 
+[NetNewsWire History](https://ranchero.com/netnewswire/history)<br />
 Brent’s blog: <a href="https://inessential.com/">inessential.com</a><br />
 <a href="https://twitter.com/netnewswire">NetNewsWire on Twitter</a> (yes, we know how that looks, but we’re pragmatic)
 
