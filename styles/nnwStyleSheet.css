@@ -45,7 +45,7 @@ h4 {
 
 header {
 	line-height: 2em;
-	padding-top: 48px;
+	padding-top: 24px;
 	padding-bottom: 12px;
 	text-align: center;
 	background-color: rgba(0, 0, 0, 0.8);
@@ -55,7 +55,7 @@ header {
 	font-size: 36px;
 	display: block;
 	font-weight: bold;
-	margin-bottom: 0.3em;
+	margin-bottom: -0.5em;
 }
 #biglink a:link, #biglink a:visited {
 	color: rgba(255, 255, 255, 1.0);
@@ -118,8 +118,8 @@ code, pre {
 	font-weight: bold;
 	font-size: 1.5em;
 	text-align: center;
-	border-topx: 1px solid rgba(0, 0, 0, 0.2);
-	border-bottomx: 1px solid rgba(0, 0, 0, 0.2);
+	border-top: 1px solid rgba(0, 0, 0, 0.2);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 	padding: 1em;
 }
 .downloadLink :link, .downloadLink :visited {
