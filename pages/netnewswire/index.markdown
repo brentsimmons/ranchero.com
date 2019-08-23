@@ -5,7 +5,7 @@
 
 The Mac version is not quite shipping — it’s in beta — but you can still download it and use it. 
 
-<p class="downloadLink"><a href="https://ranchero.com/downloads/NetNewsWire-Latest.zip">Download NetNewsWire 5.0b4 for Mac</a><br />
+<p class="downloadLink"><a href="https://github.com/brentsimmons/NetNewsWire/releases/download/mac-5.0b5/NetNewsWire5.0b5.zip">Download NetNewsWire 5.0b5 for Mac</a><br />
 <span class="systemRequirements">Free! Requires macOS 10.14.4 or newer</span></p>
 
 NetNewsWire shows you articles from your favorite blogs and news sites, and it keeps track of what you’ve read.
@@ -41,7 +41,9 @@ We’ll be adding more in future releases, of course, including support for more
 
 NetNewsWire is open source and made by volunteers. We don’t have a dedicated support line. You can email <a href="mailto:brent@ranchero.com">brent@ranchero.com</a>, but this is probably the <i>slowest</i> way to get help.
 
-Instead, consider joining the <a href="https://netnewswire.slack.com/join/shared_invite/enQtNjM4MDA1MjQzMDkzLTNlNjBhOWVhYzdhYjA4ZWFhMzQ1MTUxYjU0NTE5ZGY0YzYwZWJhNjYwNTNmNTg2NjIwYWY4YzhlYzk5NmU3ZTc">NetNewsWire Slack group</a>. You can ask questions there — and also help us think things through as we talk about future versions. It’s the home of the NetNewsWire community.
+Your question might be answered on the [Frequently Asked Questions page](https://ranchero.com/netnewswire/frequently-asked-questions). If it’s not answered there, it might be answered in the online [Help book](https://ranchero.com/netnewswire/help/mac/5.0/en/). It’s also possible that it’s one of our [Technotes](https://github.com/brentsimmons/NetNewsWire/tree/master/Technotes).
+
+You should definitely consider joining the <a href="https://netnewswire.slack.com/join/shared_invite/enQtNjM4MDA1MjQzMDkzLTNlNjBhOWVhYzdhYjA4ZWFhMzQ1MTUxYjU0NTE5ZGY0YzYwZWJhNjYwNTNmNTg2NjIwYWY4YzhlYzk5NmU3ZTc">NetNewsWire Slack group</a>. You can ask questions there — and also help us think things through as we talk about future versions. It’s the home of the NetNewsWire community.
 
 You can make feature requests and add bug reports to our <a href="https://github.com/brentsimmons/NetNewsWire/issues">bug tracker on GitHub</a>.
 
