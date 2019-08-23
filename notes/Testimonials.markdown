@@ -13,3 +13,9 @@ For 15 years, NetNewsWire has been my primary tool for navigating the broad spec
 
 (MarsEdit Developer" and linking to https://red-sweater.com/marsedit/ would be great.)
 
+Steve Kirks:
+
+I’ve used different versions of NetNewsWire over the years but this one is my favorite. Like a whiskey that mellows with age, NNW has continued to exceed my expectations. You’ll find delight in the speed of the app, the attention to detail in the interface, but most of all, the freedom to read the web the way you want to from a native application. Crafted by individuals, NNW remains in my “top 10 apps” to install on my Macs."
+
+[Steve Kirks](https://stevekirks.com/)
+
