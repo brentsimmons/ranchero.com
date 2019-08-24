@@ -24,6 +24,7 @@ We value stability, performance, quality, and platform-specific design over feat
 * Syncing via Feedbin
 * Sharing to Mail, MarsEdit, Micro.blog, Notes, Messages, and so on
 * Easy keyboard navigation
+* Single-key keyboard shortcuts
 * AppleScript support
 * Dark Mode
 * Starred articles
@@ -33,6 +34,7 @@ We value stability, performance, quality, and platform-specific design over feat
 * Searching
 * Help book
 * Multiple accounts
+* Customizable toolbar
 
 We’ll be adding more in future releases, of course, including support for more syncing services.
 
