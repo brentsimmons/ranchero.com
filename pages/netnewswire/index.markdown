@@ -14,6 +14,12 @@ If you’ve been going from page to page in your browser looking for new article
 
 If you’ve been getting your news from the social networking services — with their ads, algorithms, and user tracking — you can get your news from your favorite sites directly and more reliably with NetNewsWire.
 
+## Screenshots
+
+<a href="screenshots"><img class="centeredImage" src="../images/NNW5Light-Thumb.png" height="384" widht="384" alt="Screenshot showing NetNewsWire in light mode." style="border:1px solid #999" /></a><br />
+<a href="screenshots"><img class="centeredImage" src="../images/NNW5Dark-Thumb.png" height="384" widht="384" alt="Screenshot showing NetNewsWire in dark mode." style="border:1px solid black" /></a>
+
+These are details from larger screenshots. see the <a href="screenshots">Screenshots page</a> for the full-size versions.
 
 ## Features
 
