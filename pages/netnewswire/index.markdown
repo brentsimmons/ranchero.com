@@ -5,7 +5,7 @@
 
 The Mac version is not quite shipping — it’s in beta — but you can still download it and use it. 
 
-<p class="downloadLink"><a href="https://github.com/brentsimmons/NetNewsWire/releases/download/mac-5.0b5/NetNewsWire5.0b5.zip">Download NetNewsWire 5.0b5 for Mac</a><br />
+<p class="downloadLink"><a href="https://github.com/brentsimmons/NetNewsWire/releases/download/mac-5.0b6/NetNewsWire5.0b6.zip">Download NetNewsWire 5.0b6 for Mac</a><br />
 <span class="systemRequirements">Free! Requires macOS 10.14.4 or newer</span></p>
 
 NetNewsWire shows you articles from your favorite blogs and news sites, and it keeps track of what you’ve read.
@@ -54,7 +54,7 @@ To keep up with NetNewsWire news, <a href="https://nnw.ranchero.com/">read the b
 
 <a href="https://github.com/brentsimmons/NetNewsWire/blob/master/CONTRIBUTING.md">We welcome contributors!</a> Contributions don’t have to be code. Just getting on the Slack group and talking things over is a contribution.
 
-The list of major contributors, after Brent Simmons, includes [Maurice Parker](https://github.com/vincode-io), [Brad Ellis](https://twitter.com/BradEllis), [Olof Hellman](https://github.com/olofhellman), [Daniel Jalkut](https://github.com/danielpunkass), and [Ryan Dotson](https://nostodnayr.net/). Your name could be on that list!
+The list of major contributors, after Brent Simmons, includes [Maurice Parker](https://github.com/vincode-io), [Brad Ellis](https://twitter.com/BradEllis), [Olof Hellman](https://github.com/olofhellman), [Daniel Jalkut](https://github.com/danielpunkass), [Ryan Dotson](https://nostodnayr.net/), and [Joe Heck](https://rhonabwy.com/). Your name could be on that list!
 
 Also see <a href="https://github.com/brentsimmons/NetNewsWire/blob/master/Technotes/HowToSupportNetNewsWire.markdown">How to Support NetNewsWire</a>. Spoiler: don’t send money. :)
 
