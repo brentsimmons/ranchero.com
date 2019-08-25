@@ -54,3 +54,5 @@ Black Pixel generously returns the name “NetNewsWire” to Brent. Brent rename
 
 2019 August 12: [NetNewsWire 5.0 public beta](https://inessential.com/2019/08/12/netnewswire_public_beta)
 
+2019 August 26: NetNewsWire 5.0
+
