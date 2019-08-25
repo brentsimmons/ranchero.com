@@ -94,6 +94,10 @@ Daniel Jalkut, [MarsEdit](https://red-sweater.com/marsedit/) developer:
 
 > NetNewsWire is back! It feels just as cool and fast as it did in 2003, but not even remotely out of place on a modern Mac. In fact, it’s a shining example of what an app should be on the Mac. It’s lightweight, powerful, and respects my time. I truly do not want to get my news any other way.
 
+[Manton Reece](https://manton.org/), creator of [Micro.blog](https://micro.blog/):
+
+> Each major new version of an app is an opportunity to refocus, and NetNewsWire 5.0 prioritizes all the right things: it’s fast, embraces the open web, and feels at home on the Mac. NetNewsWire 5.0 takes everything Brent learned from previous versions, but rebuilt from scratch with modern features like Feedbin syncing, Dark Mode, and JSON Feed support.
+
 ## Other Links
 
 [NetNewsWire History](https://ranchero.com/netnewswire/history)<br />
