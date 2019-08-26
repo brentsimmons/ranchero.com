@@ -104,6 +104,8 @@ MacStories (26 August 2019): [NetNewsWire Review: The Mac RSS Client, Rebooted w
 
 Gizmodo (26 August 2019): [One of the Best RSS Readers Is Back](https://gizmodo.com/one-of-the-best-rss-readers-is-back-1837585587)
 
+9to5Mac (26 August 2019): [Powerful Mac RSS reader NetNewsWire now out of beta, free to use](https://9to5mac.com/2019/08/26/netnewswire/)
+
 ## Other Links
 
 [NetNewsWire History](https://ranchero.com/netnewswire/history)<br />
