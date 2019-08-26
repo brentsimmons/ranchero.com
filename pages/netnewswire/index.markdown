@@ -100,7 +100,9 @@ Daniel Jalkut, [MarsEdit](https://red-sweater.com/marsedit/) developer:
 
 ## Reviews and Press
 
-MacStories: [NetNewsWire Review: The Mac RSS Client, Rebooted with a Solid Foundation for the Future](https://www.macstories.net/reviews/netnewswire-review-the-mac-rss-client-rebooted-with-a-solid-foundation-for-the-future/)
+MacStories (26 August 2019): [NetNewsWire Review: The Mac RSS Client, Rebooted with a Solid Foundation for the Future](https://www.macstories.net/reviews/netnewswire-review-the-mac-rss-client-rebooted-with-a-solid-foundation-for-the-future/)
+
+Gizmodo (26 August 2019): [One of the Best RSS Readers Is Back](https://gizmodo.com/one-of-the-best-rss-readers-is-back-1837585587)
 
 ## Other Links
 
