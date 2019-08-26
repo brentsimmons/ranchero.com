@@ -23,6 +23,12 @@ Because it’s not that great when you’re reading your feeds at midnight and t
 
 We realize that we’re stretching the meaning of “Today,” but we’ve decided that it’s okay. 🐣
 
+### Why doesn’t it run on macOS 10.13 (or earlier)?
+
+Supporting older versions of macOS takes a lot of work! We decided to prioritize features — such as supporting more syncing systems (Feedly, etc.) — instead.
+
+Also, we specifically chose 10.14.4 and up because that’s the first release where we wouldn’t have to include the Swift libraries with the app. This meant a dramatic reduction in size.
+
 ### Where should I report bugs and make feature requests?
 
 The best place is [GitHub issues for NetNewsWire](https://github.com/brentsimmons/NetNewsWire/issues). You can also post them on the Slack group or email Brent.
