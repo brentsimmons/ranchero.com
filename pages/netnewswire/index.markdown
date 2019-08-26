@@ -98,6 +98,10 @@ Daniel Jalkut, [MarsEdit](https://red-sweater.com/marsedit/) developer:
 
 > Each major new version of an app is an opportunity to refocus, and NetNewsWire 5.0 prioritizes all the right things: it’s fast, embraces the open web, and feels at home on the Mac. NetNewsWire 5.0 takes everything Brent learned from previous versions, but rebuilt from scratch with modern features like Feedbin syncing, Dark Mode, and JSON Feed support.
 
+## Reviews and Press
+
+MacStories: [NetNewsWire Review: The Mac RSS Client, Rebooted with a Solid Foundation for the Future](https://www.macstories.net/reviews/netnewswire-review-the-mac-rss-client-rebooted-with-a-solid-foundation-for-the-future/)
+
 ## Other Links
 
 [NetNewsWire History](https://ranchero.com/netnewswire/history)<br />
