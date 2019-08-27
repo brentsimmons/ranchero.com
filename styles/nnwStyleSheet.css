@@ -135,6 +135,10 @@ code, pre {
 		max-width: 500px;
 		min-width: 500px;
 		}
+	.centeredImage {
+		max-width: 500px;
+		height: auto;
+	}
 }
 @media (max-width: 600px) {
 	main {
@@ -142,6 +146,10 @@ code, pre {
 		max-width: 450px;
 		min-width: 450px;
 		}
+	.centeredImage {
+		max-width: 450px;
+		height: auto;
+	}
 }
 @media (max-width: 480px) {
 	main {
@@ -149,4 +157,8 @@ code, pre {
 		max-width: 300px;
 		min-width: 300px;
 		}
+	.centeredImage {
+		max-width: 300px;
+		height: auto;
+	}
 }
