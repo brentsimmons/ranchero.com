@@ -19,3 +19,9 @@ I’ve used different versions of NetNewsWire over the years but this one is my 
 
 [Steve Kirks](https://stevekirks.com/)
 
+
+Brian Warren:
+
+NetNewsWire is back. It feels just as cool and fast as it did in 2003, but not even remotely out of place on a modern Mac. In fact, it’s a shining example of what an app should be on the Mac. It’s lightweight, powerful, and respects my time. I truly do not want to get my news any other way.
+
+[Brian Warren](http://begoodnotbad.com/), creator of [macopenweb.com](https://macopenweb.com/).
