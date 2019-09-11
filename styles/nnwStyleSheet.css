@@ -42,7 +42,9 @@ h4 {
 	margin-bottom: 1em;
 	color: #444;
 }
-
+.lightText {
+	color: #ccc;
+}
 header {
 	line-height: 2em;
 	padding-top: 24px;
