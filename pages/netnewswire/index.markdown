@@ -100,11 +100,35 @@ Daniel Jalkut, [MarsEdit](https://red-sweater.com/marsedit/) developer:
 
 ## Reviews and Press
 
-MacStories (26 August 2019): [NetNewsWire Review: The Mac RSS Client, Rebooted with a Solid Foundation for the Future](https://www.macstories.net/reviews/netnewswire-review-the-mac-rss-client-rebooted-with-a-solid-foundation-for-the-future/)
+MacStories <span class="lightText">26 August 2019</span><br />
+[NetNewsWire Review: The Mac RSS Client, Rebooted with a Solid Foundation for the Future](https://www.macstories.net/reviews/netnewswire-review-the-mac-rss-client-rebooted-with-a-solid-foundation-for-the-future/)
 
-Gizmodo (26 August 2019): [One of the Best RSS Readers Is Back](https://gizmodo.com/one-of-the-best-rss-readers-is-back-1837585587)
+Gizmodo <span class="lightText">26 August 2019</span><br />
+[One of the Best RSS Readers Is Back](https://gizmodo.com/one-of-the-best-rss-readers-is-back-1837585587)
 
-9to5Mac (26 August 2019): [Powerful Mac RSS reader NetNewsWire now out of beta, free to use](https://9to5mac.com/2019/08/26/netnewswire/)
+9to5Mac <span class="lightText">26 August 2019</span><br />
+[Powerful Mac RSS reader NetNewsWire now out of beta, free to use](https://9to5mac.com/2019/08/26/netnewswire/)
+
+AAPL Ch. <span class="lightText">26 August 2019</span><br />
+ [Safari機能拡張やダークモード、フォルダ/アカウントOPML管理、串刺し検索機能などを備えたオープンソースのMac用RSSリーダー「NetNewsWire v5.0」がリリース。](https://applech2.com/archives/20190826-netnewswire-v5-for-mac-now-available.html)
+
+heise.de <span class="lightText">27 August 2019</span><br />
+[Neuer RSS-Reader: NetNewsWire 5 ist fertig](https://www.heise.de/mac-and-i/meldung/Neuer-RSS-Reader-NetNewsWire-5-ist-fertig-4506099.html)
+
+The Sweet Setup <span class="lightText">29 August 2019</span><br />
+[NetNewsWire 5.0 Relaunches as an Open-Source RSS Reader for the Mac](https://thesweetsetup.com/netnewswire-5-0-relaunches-as-an-open-source-rss-reader-for-the-mac/)
+
+Beautiful Pixels <span class="lightText">29 August 2019</span><br />
+[NetNewsWire Returns as a Free & Open Source RSS Reader for Mac with Version 5.0](https://beautifulpixels.com/mac/netnewswire-returns-as-a-free-open-source-rss-reader-for-mac-with-version-5-0/)
+
+Macwelt <span class="lightText">29 August 2019</span><br />
+[RSS-Reader NetNewsWire 5.0 jetzt verfügbar](https://www.macwelt.de/news/RSS-Reader-NetNewsWire-5-0-jetzt-verfuegbar-10655990.html)
+
+Daring Fireball <span class="lightText">29 August 2019</span><br />
+[NetNewsWire 5.0](https://daringfireball.net/linked/2019/08/29/netnewswire-5)
+
+WordPress Tavern <span class="lightText">30 August 2019</span><br />
+[NetNewsWire 5.0 RSS Reader Rebuilt from Scratch, Now Free and Open Source](https://wptavern.com/netnewswire-5-0-rss-reader-rebuilt-from-scratch-now-free-and-open-source)
 
 ## Other Links
 
