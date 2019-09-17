@@ -3,7 +3,7 @@
 
 <b>NetNewsWire 5</b> is a free and open source RSS reader for Mac. (We’re also working on an iOS version.)
 
-<p class="downloadLink"><a href="https://github.com/brentsimmons/NetNewsWire/releases/download/mac-5.0.1/NetNewsWire5.0.1.zip">Download NetNewsWire 5.0.1 for Mac</a><br />
+<p class="downloadLink"><a href="https://github.com/brentsimmons/NetNewsWire/releases/download/mac-5.0.2/NetNewsWire5.0.2.zip">Download NetNewsWire 5.0.2 for Mac</a><br />
 <span class="systemRequirements">Free! Requires macOS 10.14.4 or newer</span></p>
 
 NetNewsWire shows you articles from your favorite blogs and news sites, and it keeps track of what you’ve read.
