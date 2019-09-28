@@ -49,7 +49,7 @@ NetNewsWire is open source and made by volunteers. We don’t have a dedicated s
 
 Your question might be answered on the [Frequently Asked Questions page](https://ranchero.com/netnewswire/frequently-asked-questions). If it’s not answered there, it might be answered in the online [Help book](https://ranchero.com/netnewswire/help/mac/5.0/en/). It’s also possible that it’s one of our [Technotes](https://github.com/brentsimmons/NetNewsWire/tree/master/Technotes).
 
-You should definitely consider joining the <a href="https://netnewswire.slack.com/join/shared_invite/enQtNjM4MDA1MjQzMDkzLTNlNjBhOWVhYzdhYjA4ZWFhMzQ1MTUxYjU0NTE5ZGY0YzYwZWJhNjYwNTNmNTg2NjIwYWY4YzhlYzk5NmU3ZTc">NetNewsWire Slack group</a>. You can ask questions there — and also help us think things through as we talk about future versions. It’s the home of the NetNewsWire community.
+You should definitely consider joining the <a href="https://ranchero.com/netnewswire/slack">NetNewsWire Slack group</a>. You can ask questions there — and also help us think things through as we talk about future versions. It’s the home of the NetNewsWire community.
 
 You can make feature requests and add bug reports to our <a href="https://github.com/brentsimmons/NetNewsWire/issues">bug tracker on GitHub</a>.
 
