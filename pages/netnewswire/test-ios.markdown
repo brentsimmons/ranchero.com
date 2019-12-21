@@ -75,7 +75,7 @@ The generous folks at [Feedbin](https://feedbin.com/) are hosting the web servic
 
 The testers on our Slack group can’t be thanked enough for all their help testing all the early builds — and especially for their patience with all the crashes as we were getting background refreshing working.
 
-And, finally — [Brad Ellis](https://twitter.com/bradellis) made the beautiful icon for the iOS app. (Brad also made the Mac app icon.) Without a beautiful icon, we’re nothing. :)
+And, finally — [Brad Ellis](https://twitter.com/bradellis) made a beautiful and modern icon for the iOS app. (Brad also made the Mac app icon.) Without a beautiful icon, we’re nothing. :)
 
 <img class="centeredImage" src="https://ranchero.com/netnewswire/images/nnw-ios-icon-512-rounded.png" height="256" width="256" alt="NetNewsWire for iOS icon: Earth with a satellite orbiting above it, in the foreground.">
 
