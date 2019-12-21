@@ -63,6 +63,8 @@ This is our favorite part of this page. NetNewsWire is a team.
 
 [Maurice Parker](https://github.com/vincode-io) wrote the entire user interface of the iOS app. Some parts of it [he did twice](https://inessential.com/2019/10/21/swiftui_is_still_the_future), even. That’s a *ton* of work. He also did background refreshing, which turned out to be a surprising amount of work too.
 
+[Brent Simmons](https://inessential.com/) designed the iOS app, along with Maurice. Brent wrote much of the under-the-hood parts, and he manages the project.
+
 [Kiel Gillard](https://twitter.com/kielgillard) wrote Feedly syncing, which we prioritized because it’s been the most common of the syncing feature requests. This was tricky because parts of the in-app API were a moving target as he worked on this.
 
 [Nate Weaver](https://github.com/wevah) has been our utility infielder, working here and there to fix different things. When something works just a little better, there’s a good chance it’s Nate’s work.
