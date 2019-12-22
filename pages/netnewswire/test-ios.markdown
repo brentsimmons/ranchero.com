@@ -29,6 +29,7 @@ The features are similar to the Mac app…
 * Importing and exporting OPML feed lists
 * Multiple accounts
 * Background refreshing
+* Searching
 
 …and it has a few features that haven’t made it to the Mac app yet…
 
@@ -56,6 +57,13 @@ Just as the Mac app is designed to be very much a *Mac* app, sticking closely to
 It supports Dark Mode, Context Menus, Dynamic Type, and accessibility. (Bug reports related to accessibility are high priority: if you notice something we can improve, please let us know asap.)
 
 We’ve worked to make it clear, clean, and as obvious as possible. If it looks like we just kind of skipped the design process — if it looks easy, as if it didn’t take much thought — then *good*. That’s the goal.
+
+## Screenshots
+
+This is a detail from a larger screenshot. See the [Screenshots page](screenshots-ios) for full size screenshots.
+
+<a href="screenshots-ios"><img class="centeredImage" src="https://ranchero.com/netnewswire/images/nnw-ipad-dark-thumb.png" width="357" height="357" style="border:1px solid black" alt="Screenshot showing NetNewsWire 5 timeline display settings on an iPhone." alt="Go to the screenshots page."></a>
+
 
 ## Credits
 
