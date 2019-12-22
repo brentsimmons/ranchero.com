@@ -82,9 +82,3 @@ And, finally — [Brad Ellis](https://twitter.com/bradellis) made a beautiful an
 ## Press Inquiries
 
 If you have questions for a blog post, article, or podcast, please email Brent Simmons at <a href="mailto:brent@ranchero.com">brent@ranchero.com</a>.
-
-## Screenshots
-
-These are details from larger screenshots. See the [iOS Screenshots page](https://ranchero.com/netnewswire/screenshots-ios) for the full-size versions. You can use these in blog posts or articles about NetNewsWire.
-
-TBD
