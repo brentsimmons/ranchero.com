@@ -69,7 +69,7 @@ This is a detail from a larger screenshot. See the [Screenshots page](screenshot
 
 NetNewsWire is a team.
 
-[Maurice Parker](https://github.com/vincode-io) wrote the entire user interface of the iOS app. Some parts of it [he did twice](https://inessential.com/2019/10/21/swiftui_is_still_the_future), even. That’s a *ton* of work. He also did background refreshing, which turned out to be a surprising amount of work too.
+[Maurice Parker](https://vincode.io/) wrote the entire user interface of the iOS app. Some parts of it [he did twice](https://inessential.com/2019/10/21/swiftui_is_still_the_future), even. That’s a *ton* of work. He also did background refreshing, which turned out to be a surprising amount of work too.
 
 [Brent Simmons](https://inessential.com/) designed the iOS app, along with Maurice. Brent wrote much of the under-the-hood parts, and he manages the project.
 
