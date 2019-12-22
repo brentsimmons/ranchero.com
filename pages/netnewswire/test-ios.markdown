@@ -75,7 +75,7 @@ NetNewsWire is a team.
 
 [Kiel Gillard](https://twitter.com/kielgillard) wrote Feedly syncing, which we prioritized because it’s been the most common of the syncing feature requests. This was tricky because parts of the in-app API were a moving target as he worked on this.
 
-[Nate Weaver](https://github.com/wevah) has been our utility infielder, working here and there to fix different things. When something works just a little better, there’s a good chance it’s Nate’s work.
+[Nate Weaver](https://github.com/wevah) has been our utility infielder, working here and there to fix different things. When something works a little better, there’s a good chance it’s Nate’s work.
 
 [Ryan Dotson](https://twitter.com/nostodnayr) wrote the [iOS Help Book](https://ranchero.com/netnewswire/help/ios/5.0/en/). (He also wrote the [Mac Help Book](https://ranchero.com/netnewswire/help/mac/5.0/en/).) This is one of those things it’s easy to skimp on, or just not do, but we consider documentation massively important: it’s a matter of respecting the people who use the app.
 
