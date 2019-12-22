@@ -3,7 +3,7 @@
 
 If you’d like to help test NetNewsWire 5 for iOS, please [sign up on TestFlight](link_tbd). (Requires iOS 13. Hopefully you’re on 13.3.)
 
-The app is quite close to being finished. There are some tweaks to make — and there are bugs, surely. So bear that in mind.
+While the app is close to being finished, there are still some tweaks to make — and there are bugs, surely. Which is the point of all this. 😀
 
 ## Feedback
 
@@ -30,7 +30,7 @@ The features are similar to the Mac app…
 * Multiple accounts
 * Background refreshing
 
-…and it has a couple features that haven’t made it to the Mac app yet…
+…and it has a few features that haven’t made it to the Mac app yet…
 
 * Feedly syncing
 * Reader view
@@ -59,7 +59,7 @@ We’ve worked to make it clear, clean, and as obvious as possible. If it looks 
 
 ## Credits
 
-This is our favorite part of this page. NetNewsWire is a team.
+NetNewsWire is a team.
 
 [Maurice Parker](https://github.com/vincode-io) wrote the entire user interface of the iOS app. Some parts of it [he did twice](https://inessential.com/2019/10/21/swiftui_is_still_the_future), even. That’s a *ton* of work. He also did background refreshing, which turned out to be a surprising amount of work too.
 
