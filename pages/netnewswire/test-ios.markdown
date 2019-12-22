@@ -1,7 +1,7 @@
 @template nnw_ios.html
 @title NetNewsWire 5 for iOS Public TestFlight
 
-If you’d like to help test NetNewsWire 5 for iOS, please [sign up on TestFlight](link_tbd). (Requires iOS 13. Hopefully you’re on 13.3.)
+If you’d like to help test NetNewsWire 5 for iOS, please [sign up on TestFlight](https://testflight.apple.com/join/5Mh4hVpS). (Requires iOS 13. Hopefully you’re on 13.3.)
 
 While the app is close to being finished, there are still some tweaks to make — and there are bugs, surely. Which is the point of all this. 😀
 
