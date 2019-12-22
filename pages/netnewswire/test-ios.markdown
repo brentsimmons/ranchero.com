@@ -41,7 +41,7 @@ It also supports Shortcuts! (We love automation. The Mac app is AppleScript-able
 
 ## Coolest Thing
 
-If you’re using an iPad with a keyboard, you have the same shortcuts available as in the Mac app. You can fly through your feeds without touching the screen. It’s awesome!
+If you’re using an iPad with a keyboard, you have the same keyboard shortcuts available as in the Mac app. You can fly through your feeds without touching the screen. It’s awesome!
 
 ## Help Book
 
