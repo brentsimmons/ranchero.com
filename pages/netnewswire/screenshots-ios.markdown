@@ -15,7 +15,7 @@ You are welcome to use these in blog posts, reviews, and so on.
 
 Here is the NetNewsWire for iOS app icon.
 
-<img class="centeredImage" src="https://ranchero.com/netnewswire/images/nnw-ios-icon-512-rounded.png" width="512" height="512" alt="NetNewsWire for iOS icon: Earth with a satellite orbiting above it, in the foreground.">
+<img class=centeredImage src="https://ranchero.com/netnewswire/images/NNW-iOS-Icon.png" height=564 width=560 alt="NetNewsWire for iOS icon: Earth with a satellite orbiting above it, in the foreground.">
 
 In the Dock.
 

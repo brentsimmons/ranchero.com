@@ -77,7 +77,7 @@ NetNewsWire is a team.
 
 [Nate Weaver](https://github.com/wevah) has been our utility infielder, working here and there to fix different things. When something works just a little better, there’s a good chance it’s Nate’s work.
 
-[Ryan Dotson](https://twitter.com/nostodnayr) wrote the [iOS Help Book](https://ranchero.com/netnewswire/help/ios/5.0/en/moving-from-another-app). (He also wrote the [Mac Help Book](https://ranchero.com/netnewswire/help/mac/5.0/en/).) This is one of those things it’s easy to skimp on, or just not do, but we consider documentation massively important: it’s a matter of respecting the people who use the app.
+[Ryan Dotson](https://twitter.com/nostodnayr) wrote the [iOS Help Book](https://ranchero.com/netnewswire/help/ios/5.0/en/). (He also wrote the [Mac Help Book](https://ranchero.com/netnewswire/help/mac/5.0/en/).) This is one of those things it’s easy to skimp on, or just not do, but we consider documentation massively important: it’s a matter of respecting the people who use the app.
 
 The generous folks at [Feedbin](https://feedbin.com/) are hosting the web service we use for NetNewsWire’s new Reader view, and they’ve gone out of their way to help in many different ways, over and over.
 
@@ -85,7 +85,7 @@ The testers on our Slack group can’t be thanked enough for all their help test
 
 And, finally — [Brad Ellis](https://twitter.com/bradellis) made a beautiful and modern icon for the iOS app. (Brad also made the Mac app icon.) Without a beautiful icon, we’re nothing.
 
-<img class="centeredImage" src="https://ranchero.com/netnewswire/images/nnw-ios-icon-512-rounded.png" height="256" width="256" alt="NetNewsWire for iOS icon: Earth with a satellite orbiting above it, in the foreground.">
+<img class=centeredImage src="https://ranchero.com/netnewswire/images/NNW-iOS-Icon.png" height=564 width=560 alt="NetNewsWire for iOS icon: Earth with a satellite orbiting above it, in the foreground.">
 
 ## Press Inquiries
 
