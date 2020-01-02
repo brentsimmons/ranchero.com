@@ -85,7 +85,7 @@ The testers on our Slack group can’t be thanked enough for all their help test
 
 And, finally — [Brad Ellis](https://twitter.com/bradellis) made a beautiful and modern icon for the iOS app. (Brad also made the Mac app icon.) Without a beautiful icon, we’re nothing.
 
-<img class=centeredImage src="https://ranchero.com/netnewswire/images/NNW-iOS-Icon.png" height=564 width=560 alt="NetNewsWire for iOS icon: Earth with a satellite orbiting above it, in the foreground.">
+<img class="centeredImage" src="https://ranchero.com/netnewswire/images/NNW-iOS-Icon.png" height="564" width="560" alt="NetNewsWire for iOS icon: Earth with a satellite orbiting above it, in the foreground.">
 
 ## Press Inquiries
 
