@@ -1,7 +1,7 @@
 @template nnw_page.html
 @title Frequently Asked Questions
 
-*Last update: 13 Aug. 2019*
+*Last update: 2 Jan. 2020*
 
 ### Are you planning an iOS version?
 
@@ -9,7 +9,7 @@ Yes — we’re already working on it.
 
 ### How can I get on the TestFlight beta for the iOS version?
 
-It’s not ready for a beta yet. But, when it is, we’ll announce it on the [NetNewsWire blog](https://nnw.ranchero.com/) and in the Slack group, and you’ll be able to sign up.
+[This page has instructions for signing up.](https://ranchero.com/netnewswire/test-ios)
 
 ### Are you planning on Feedly support? Or support for ______?
 
@@ -31,7 +31,7 @@ Also, we specifically chose 10.14.4 and up because that’s the first release wh
 
 ### Where should I report bugs and make feature requests?
 
-The best place is [GitHub issues for NetNewsWire](https://github.com/brentsimmons/NetNewsWire/issues). You can also post them on the Slack group or email Brent.
+The best place is [GitHub issues for NetNewsWire](https://github.com/ranchero-software/NetNewsWire/issues). You can also post them on the Slack group or email Brent.
 
 ### What happened to Evergreen?
 
