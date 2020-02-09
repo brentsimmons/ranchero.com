@@ -1,7 +1,7 @@
 @template nnw_page.html
 @title Frequently Asked Questions
 
-*Last update: 2 Jan. 2020*
+*Last update: 8 Feb. 2020*
 
 ### Are you planning an iOS version?
 
