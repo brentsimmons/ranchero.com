@@ -11,6 +11,14 @@ Yes — we’re already working on it.
 
 [This page has instructions for signing up.](https://ranchero.com/netnewswire/test-ios)
 
+### The iOS app has ______ but the Mac version doesn’t. (Or vice versa.) Will you be adding that feature to the other version?
+
+Yes. The apps will support the same features — the same syncing systems and everything else.
+
+(There are a few exceptions. For example, the iOS app will never support AppleScript, because AppleScript doesn’t exist there.)
+
+If the iOS app has feature X, but the Mac app doesn’t (or vice versa) — stay tuned. It’s just a matter of our getting to it.
+
 ### Are you planning on Feedly support? Or support for ______?
 
 Yes — we’d like to support all, or as many as possible, of the services like Feedly, Inoreader, and so on.
