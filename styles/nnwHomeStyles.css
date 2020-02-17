@@ -1,0 +1,209 @@
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	line-height: 1.7em;
+	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 1.2em;
+	color: rgba(255, 255, 255, 0.8);
+	background-color: hsl(214.4, 30%, 15%);
+}
+a {
+	text-decoration: none;
+}
+a:link {
+	color: rgba(68,144,226, 1.0);
+}
+a:visited {
+	color: rgba(110, 153, 139, 1.0);
+}
+h1 {
+	font-size: 34px;
+}
+h2 {
+	font-size: 34px;
+	text-align: center;
+}
+h3 {
+	font-size: 22px;
+}
+h4 {
+	margin-bottom: 1em;
+}
+header {
+	line-height: 2em;
+	padding-top: 1em;
+	padding-bottom: 0em;
+	text-align: center;
+}
+.biglink {
+	font-size: 36px;
+	display: block;
+	font-weight: bold;
+	margin-bottom: -0.5em;
+}
+.biglink a:link, .biglink a:visited {
+	color: white;
+}
+
+.largertext {
+	font-size: 1.25em;
+}
+.hidden {
+	display: none;
+}
+main {
+	margin-left: auto;
+	margin-right: auto;
+}
+.innertext {
+	max-width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.innertext b {
+	color: rgba(255, 255, 255, 0.95);
+}
+.intro {
+	padding-bottom: 3em;
+}
+.nnwmac {
+	padding-top: 2em;
+	padding-bottom: 3em;
+}
+.nnwios {
+	background-color: rgba(255, 255, 255, 0.1);
+	padding-top: 2em;
+	padding-bottom: 2em;
+	text-align: center;
+}
+.lighterbackground {
+	background-color: rgba(255, 255, 255, 0.1);
+}
+.textsection {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+.widequote {
+	padding-top: 2em;
+	padding-bottom: 2em;
+	background-color: black;
+	text-align: center;
+	font-weight: 500;
+}
+.quoteauthor {
+	color: rgba(255, 255, 255, 0.65);
+	font-weight: normal;
+	display: block;
+	margin-top: 0.75em;
+}
+code, pre {
+	font-family: "SF Mono", Menlo, "Courier", monospace;
+	font-size: 16px;
+	white-space: pre-wrap;
+}
+.centeredimage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.centeredtext {
+	text-align: center;
+}
+.separator {
+ 	height: 1px;
+ 	background-color: rgba(255, 255, 255, 0.35);
+ 	margin-top: 2em;
+ 	margin-bottom: 2em;
+ }
+.systemrequirements {
+	color: rgba(255, 255, 255, 0.5);
+}
+.pressdate {
+	color: rgba(255, 255, 255, 0.5);
+	float: right;
+}
+.testimonialauthor {
+	color: rgba(255, 255, 255, 0.5);
+	font-weight: normal;
+	display: block;
+	margin-top: 0.75em;
+	text-align: right;
+}
+.toppadding {
+	padding-top: 2em;
+}
+.downloads {
+	background-color: #036BD9;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	color: rgba(255, 255, 255, 0.5);
+	text-align: center;
+	border-radius: 6px;
+	margin-top: 2em;
+	padding-left: 2em;
+	padding-right: 2em;
+}
+.downloads a {
+	text-decoration: underline;
+	font-size: 1.3em;
+}
+.downloads a:link {
+	color: rgba(255, 255, 255, 0.9);
+}
+.underlined {
+	text-decoration: underline;
+}
+.lightlink:link, .lightlink:visited {
+	color: rgba(255, 255, 255, 0.9);
+}
+nav {
+  text-align: center;
+  margin-bottom: 1em;
+}
+.navseparator {
+ 	height: 1px;
+ 	background-color: rgba(255, 255, 255, 0.2);
+ 	margin-bottom: 2em;
+}
+footer {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 2em;
+	text-align: center;
+}
+
+@media (max-width: 760px) {
+	.centeredimage {
+		max-width: 500px;
+		height: auto;
+	}
+	.innertext {
+		width: 500px;
+		max-width: 500px;
+		min-width: 500px;
+	}
+}
+@media (max-width: 600px) {
+	.centeredimage {
+		max-width: 450px;
+		height: auto;
+	}
+	.innertext {
+		width: 450px;
+		max-width: 450px;
+		min-width: 450px;
+	}
+}
+@media (max-width: 480px) {
+	.centeredimage {
+		max-width: 300px;
+		height: auto;
+	}
+	.innertext {
+		width: 300px;
+		max-width: 300px;
+		min-width: 300px;
+	}
+}
