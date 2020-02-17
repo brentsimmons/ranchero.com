@@ -100,7 +100,7 @@
 
 <p>We believe that apps should never crash. They should be free of bugs. They should be <i>fast</i> — they should feel lighter-than-air.</p>
 
-<p>We believe that quality is more important than features, and we believe that high quality is tranformative — it makes for an app you never hesitate to reach for. You can rely on it, and you do, again and again.</p>
+<p>We believe that quality is more important than features, and we believe that high quality is transformative — it makes for an app you never hesitate to reach for. You can rely on it, and you do, again and again.</p>
 
 <p>This makes us slow to add features. We <i>are</i> adding features — but never at the expense of how it feels. Never at the expense of reliability and speed.</p>
 
