@@ -271,8 +271,7 @@
 
 <p><a href="https://ranchero.com/netnewswire/history">NetNewsWire History</a><br>
 <a href="https://inessential.com/">inessential.com</a> - Brent’s blog<br>
-<a href="https://twitter.com/netnewswire">NetNewsWire on Twitter</a> (yes, we know how that looks, but we’re pragmatic)<br>
-<a href="old-versions">Older versions of NetNewsWire</a> for people running older operating systems</p>
+<a href="https://twitter.com/netnewswire">NetNewsWire on Twitter</a> (yes, we know how that looks, but we’re pragmatic)</p>
 
 <p>Open web friends:<br>
 <a href="https://www.red-sweater.com/marsedit/">MarsEdit</a><br>
