@@ -121,7 +121,7 @@
 
 <p>NetNewsWire is <b>open source and made by volunteers.</b> We don’t have a dedicated support line. You can email <a href="mailto:brent@ranchero.com">brent@ranchero.com</a>, but this is probably the <i>slowest</i> way to get help.</p>
 
-<p>Your question might be answered on the <a href="https://ranchero.com/netnewswire/frequently-asked-questions">Frequently Asked Questions page</a>. If it’s not answered there, it might be answered in the online <a href="https://ranchero.com/netnewswire/help/">Help book</a>. It’s also possible that it’s one of our <a href="https://github.com/brentsimmons/NetNewsWire/tree/master/Technotes">Technotes</a>.</p>
+<p>Your question might be answered on the <a href="https://ranchero.com/netnewswire/frequently-asked-questions">Frequently Asked Questions page</a>. If it’s not answered there, it might be answered in the online <a href="https://ranchero.com/netnewswire/help/">Help book</a>. It’s also possible that it’s in one of our <a href="https://github.com/brentsimmons/NetNewsWire/tree/master/Technotes">Technotes</a>.</p>
 
 <p>You should definitely consider joining the <a href="https://ranchero.com/netnewswire/slack">NetNewsWire Slack group</a>. You can ask questions there — and also help us think things through as we talk about future versions. It’s the home of the NetNewsWire community.</p>
 
