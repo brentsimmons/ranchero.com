@@ -1,36 +1,89 @@
+@template home.html
 @title Home
-@show_title false
 
-Brent Simmons has been [blogging](https://inessential.com/) for 20 years. He makes open source Mac apps and lives in sunny, lovely Seattle.
+<section>
+<div class="innertext">
+<h1 class="hidden">Ranchero Software</h1>
+<p class="largertext">Ranchero Software is a group of volunteers, led by <a href="https://inessential.com/">Brent Simmons</a>, that makes great free and open source apps for <b>Mac</b> and <b>iOS</b>.</p>
 
-## Apps
+<div class="separator"></div>
 
-<a href="netnewswire/"><img class="centeredImage" src="https://ranchero.com/images/nnw_icon_256.png" height="256" width="256" alt="NetNewsWire for Mac icon: globe with a satellite in the foreground." /></a>
+<p>It is not a company or even a formal organization. It’s just people working together, and <a href="https://github.com/Ranchero-Software/NetNewsWire/blob/master/CONTRIBUTING.md">everyone is welcome to help out</a>. Everyone is encouraged, even — please do help us out! You can find our <a href="https://github.com/ranchero-software">repositories on GitHub</a>.</p>
 
-**<a href="netnewswire/">NetNewsWire</a>**<br />
-Free and open source RSS reader for Mac, with an iOS version in progress.
+<p>We’re an enthusiastic team of people from around the world. And we think it’s the hottest team in the Mac and iOS worlds. 🐥</p>
 
-**<a href="https://github.com/brentsimmons/Rainier">Rainier</a>**<br />
-Free and open source database, scripting system, and development environment for Mac with easy ties to the web. Not even close to shipping yet.
+<div class="separator"></div>
+</div>
+</section>
 
-## Blogs
+<section>
+<div class="innertext">
 
-**<a href="http://inessential.com/">inessential</a>**<br />
-Brent writes about Mac and iOS development. And other things. Since 1999.
+<h2>Apps</h2>
 
-**<a href="https://micro.inessential.com/">micro.inessential.com</a>**<br />
-Brent’s microblog, where he posts small things.
+<div class="box">
+<p><a href="netnewswire/"><img class="centeredimage" src="https://ranchero.com/images/nnw_icon_256.png" height="256" width="256" alt="NetNewsWire for Mac icon: globe with a satellite in the foreground." /></a></p>
+<p><span class="largertext"><b><a href="/netnewswire/">NetNewsWire</a></b></span><br>
+RSS reader for Mac. iOS app coming soon.</p>
+</div>
 
-## Podcasts
+<div class="box">
+<p><span class="largertext"><b><a href="https://github.com/brentsimmons/Rainier">Rainier</a></b></span><br>
+Database, scripting system, and development environment for Mac with easy ties to the web. Inspired by UserLand Frontier.</p>
+<p>Not even close to shipping yet.</p>
+</div>
 
-**<a href="http://therecord.co/">The Record</a>**<br />
-Brent’s and Chris Parrish’s podcast brings you the stories you should know about the Mac and iOS development community in Seattle. (Not currently active, though.)
+<div class="separator"></div>
 
-**<a href="http://identicalcousins.net">Identical Cousins</a>**<br />
-Brent and Michael Simmons talk about making apps. All done after 24 episodes. :)
+</div>
+</section>
 
-## Contacting Brent
 
-You can email <a href="mailto:brent@ranchero.com">brent@ranchero.com</a>, or DM him <a href="https://twitter.com/brentsimmons">@brentsimmons</a> on Twitter.
+<section>
+<div class="innertext">
+<h2>Philosophy</h2>
 
-For more history, see [Apps I’ve Made](https://inessential.com/apps_ive_made) on Brent’s blog.
+<p>We believe that the features of popular, lovable apps are:</p>
+<ul>
+<li>Stability</li>
+<li>Lack of bugs</li>
+<li>Performance</li>
+<li>Platform-specific design</li>
+</ul>
+
+<p>High quality apps — apps that don’t annoy you with crashes and bugs, that feel light and fast, that fit in with the platform — are the apps that people love and rely on. And tell their friends about.</p>
+
+<p>Though we do add features to our apps, we do it slowly and carefully — because the features listed above are more important than any feature we could add.</p>
+
+<p>While the rest of the industry is moving fast and paying little attention to quality, we’re moving slowly and paying all of our attention to quality.</p>
+
+<p>And we’re setting out to prove that this is the path to success — and that, now more than ever, it’s also the <i>right</i> thing to do.</p>
+
+<p>Yes. We’re on a mission.</p>
+<div class="separator"></div>
+
+</div>
+</section>
+
+<section>
+<div class="innertext">
+
+<h2>History</h2>
+
+<p>If you’ve been around a while, you may recall that Ranchero Software used to be a company. It was founded and run by Brent and Sheila Simmons, and it shipped NetNewsWire 1.0 and 2.0 and MarsEdit 1.0. (And some small apps: Big Cat, TigerLaunch, and Huevos.)</p>
+
+<p>A few years ago we decided to <a href="https://inessential.com/2015/06/30/love">write apps for love</a> instead of for money. 😻  So we closed the company and started writing free and open source apps.</p>
+
+<p>For more details, see <a href="https://ranchero.com/netnewswire/history">NetNewsWire History</a>.</p>
+<div class="separator"></div>
+</div>
+</section>
+
+<section>
+<div class="innertext">
+
+<h2>Contact</h2>
+
+<p>You can email Brent Simmons at <a href="mailto:brent@ranchero.com">brent@ranchero.com</a>. You can read his blog at <a href="https://inessential.com/">inessential.com</a>.</p>
+</div>
+</section>
