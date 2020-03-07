@@ -13,7 +13,6 @@ May 2002: [MacNewsWire 1.0b6](https://inessential.com/2002/05/17/macnewswire_1_0
 
 2005 May 12: [NetNewsWire 2.0](https://inessential.com/2005/05/12/netnewswire_2_0_released)
 
-
 ## NewsGator Era
 
 2005 October 4: [NewsGator acquires NetNewsWire](https://inessential.com/2005/10/04/newsgator_acquires_netnewswire)
@@ -30,7 +29,6 @@ Brent takes a job at NewsGator and continues to work on NetNewsWire as lead (and
 
 2011 March 2: [NetNewsWire Lite 4.0](https://inessential.com/2011/03/02/the_return_of_netnewswire_lite)
 
-
 ## Black Pixel Era
 
 2011 June 3: [NetNewsWire acquired by Black Pixel](https://inessential.com/2011/06/03/netnewswire_acquired_by_black_pixel)
@@ -44,7 +42,6 @@ Brent continues to work at NewsGator for a couple more years. He no longer works
 Black Pixel also makes versions for iOS and Apple TV
 
 2017 June 1: [Brent announces Evergreen](https://inessential.com/2017/06/01/evergreen_diary_1_open_source)
-
 
 ## Back Home, Open Source Era
 

@@ -19,11 +19,13 @@ a:visited {
 	color: rgba(110, 153, 139, 1.0);
 }
 h1 {
-	font-size: 34px;
+	font-size: 42px;
+	line-height: 1.1em;
 }
 h2 {
 	font-size: 34px;
 	text-align: center;
+	line-height: 1.2em;
 }
 h3 {
 	font-size: 22px;
@@ -56,6 +58,16 @@ header {
 main {
 	margin-left: auto;
 	margin-right: auto;
+}
+article {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+article h2 {
+	text-align: left;
+	font-size: 28px;
+	color: rgba(255, 255, 255, 0.9);
+	margin-top: 2em;
 }
 .innertext {
 	max-width: 650px;
@@ -166,6 +178,10 @@ nav {
  	height: 1px;
  	background-color: rgba(255, 255, 255, 0.2);
  	margin-bottom: 2em;
+}
+.hairline {
+ 	height: 1px;
+ 	background-color: rgba(255, 255, 255, 0.35);
 }
 footer {
 	margin-top: 0;

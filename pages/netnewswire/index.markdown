@@ -87,8 +87,10 @@
 
 <p><a href="https://ranchero.com/netnewswire/test-ios"><img class="centeredimage" src="https://ranchero.com/netnewswire/images/NNW-iOS-Icon-Shadow.png" height=320 width=320 alt="NetNewsWire for iOS icon: Earth with a satellite orbiting above it, in the foreground." /></a></p>
 
-<p>NetNewsWire for iOS is currently in beta testing via TestFlight.</p>
+<p>NetNewsWire for iOS is about to ship.</p>
+<!-- 
 <p class="largertext"><a class="underlined lightlink" href="https://ranchero.com/netnewswire/test-ios">Sign up to help test</a></p>
+ -->
 
 </div>
 </section>
