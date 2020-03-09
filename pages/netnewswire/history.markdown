@@ -54,3 +54,4 @@ Black Pixel generously returns the name “NetNewsWire” to Brent. Brent rename
 
 2019 August 26: [NetNewsWire 5.0](https://inessential.com/2019/08/26/netnewswire_5_0_now_available)
 
+2020 March 9: NetNewsWire 5.0 for iOS
