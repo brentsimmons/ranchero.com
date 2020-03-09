@@ -1,5 +1,6 @@
 @template nnw_page.html
 @title NetNewsWire History
+@description Timeline about the long history of NetNewsWire, starting in 2002.
 
 ## Indie Era
 

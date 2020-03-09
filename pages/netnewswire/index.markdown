@@ -5,12 +5,13 @@
 <div class="innertext">
 <h1 class="hidden">NetNewsWire for Mac and iOS</h1>
 
-<p><span class="largertext"><b>NetNewsWire</b> is a free and open source RSS reader for <b>Mac</b>.</span></p>
-<p>An <b>iOS</b> app is coming soon.</p>
+<p><span class="largertext"><b>NetNewsWire</b> is a free and open source RSS reader for <b>Mac</b> and <b>iOS</b>.</span></p>
 
 <div class="separator">&nbsp;</div>
 
 <p>NetNewsWire shows you articles from your favorite blogs and news sites — and keeps track of what you’ve read.</p>
+
+<p>It’s like podcasts, but for reading.</p>
 
 <p>If you’ve been going from page to page in your browser looking for new articles to read, let NetNewsWire bring them to you instead.</p>
 
@@ -21,6 +22,12 @@
 <div class="downloads">
 <p><a href="https://github.com/brentsimmons/NetNewsWire/releases/download/mac-5.0.3/NetNewsWire5.0.3.zip">Download NetNewsWire 5 for Mac</a><br>
 <span class="systemrequirements">Free! Requires macOS 10.14.4 or newer</span></p>
+
+<div class="separator">&nbsp;</div>
+
+<p><a href="https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210">Download NetNewsWire for iOS on the App Store</a><br>
+<span class="systemrequirements">Free! Requires iOS 13 or newer</span></p>
+<p><a href="https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210"><img class="centeredimage" src="https://ranchero.com/images/appstore.png" height="80" width="239" alt="Download NetNewsWire on the App Store"></a></p>
 </div>
 
 </div>
@@ -41,7 +48,7 @@
 <div class="separator">&nbsp;</div>
 
 <p class="largertext centeredtext"><a class="lightlink underlined" href="screenshots">See full-size screenshots</a></p>
-<p><a href="screenshots"><img class="centeredimage" src="https://ranchero.com/images/NNW5Light-Thumb.png" height="384" width="384" alt="Screenshot showing NetNewsWire in light mode." style="border:1px solid #999" /></a></p>
+<p><a href="screenshots"><img class="centeredimage" src="https://ranchero.com/images/NNW5Light-Thumb.png" height="384" width="384" alt="Screenshot showing NetNewsWire in light mode." style="border:1px solid black" /></a></p>
 <p><a href="screenshots"><img class="centeredimage" src="https://ranchero.com/images/NNW5Dark-Thumb.png" height="384" width="384" alt="Screenshot showing NetNewsWire in dark mode." style="border:1px solid black" /></a></p>
 
 <div class="separator">&nbsp;</div>
@@ -82,15 +89,49 @@
 
 <section class="nnwios">
 <div class="innertext">
+<p><img class="centeredimage" src="https://ranchero.com/netnewswire/images/NNW-iOS-Icon-Shadow.png" height=320 width=320 alt=""></p>
 <h2>NetNewsWire for iOS</h2>
+
 <div class="separator">&nbsp;</div>
 
-<p><a href="https://ranchero.com/netnewswire/test-ios"><img class="centeredimage" src="https://ranchero.com/netnewswire/images/NNW-iOS-Icon-Shadow.png" height=320 width=320 alt="NetNewsWire for iOS icon: Earth with a satellite orbiting above it, in the foreground." /></a></p>
 
-<p>NetNewsWire for iOS is about to ship.</p>
-<!-- 
-<p class="largertext"><a class="underlined lightlink" href="https://ranchero.com/netnewswire/test-ios">Sign up to help test</a></p>
- -->
+<p class="largertext centeredtext"><a class="lightlink underlined" href="screenshots-ios">See full-size screenshots</a></p>
+<p><a href="screenshots-ios"><img class="centeredimage" src="https://ranchero.com/images/nnwios5/iPad-Dark-Thumb.png" height="384" width="384" alt="Screenshot showing NetNewsWire in light mode." style="border:1px solid black" /></a></p>
+<p><a href="screenshots-ios"><img class="centeredimage" src="https://ranchero.com/images/nnwios5/iPad-Light-Thumb.png" height="384" width="384" alt="Screenshot showing NetNewsWire in dark mode." style="border:1px solid black" /></a></p>
+
+<div class="separator">&nbsp;</div>
+
+<p><b>Features</b></p>
+<ul>
+<li>Direct feed-downloading</li>
+<li>Syncing via Feedbin and Feedly</li>
+<li>Multiple accounts</li>
+<li>Dark Mode</li>
+<li>Reader view</li>
+<li>Share sheet</li>
+<li>Starred articles</li>
+<li>All Unread and Today smart feeds</li>
+<li>Folders</li>
+<li>Importing and exporting OPML feed lists</li>
+<li>Background refreshing</li>
+<li>Searching</li>
+<li>Hiding read articles</li>
+<li>Timeline customization</li>
+<li>Keyboard shortcuts</li>
+<li>Context menus</li>
+<li>Support for multiple windows</li>
+<li>Three-pane view on iPad</li>
+</ul>
+
+<div class="separator">&nbsp;</div>
+
+<p>Read the <a href="https://ranchero.com/netnewswire/help/ios/5.0/en/">NetNewsWire for iOS Help book</a> to learn more about the app.</p>
+
+<div class="downloads">
+<p><a href="https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210"><img class="centeredimage" src="https://ranchero.com/images/appstore.png" height="80" width="239" alt="Download NetNewsWire on the App Store"></a></p>
+<p><a href="https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210">Download NetNewsWire on the App Store</a><br>
+<span class="systemrequirements">Free! Requires iOS 13 or newer</span></p>
+</div>
 
 </div>
 </section>
@@ -272,6 +313,7 @@
 <h2 id="other-links" class="toppadding">Other Links</h2>
 
 <p><a href="https://ranchero.com/netnewswire/history">NetNewsWire History</a><br>
+<a href="old-versions">Old Versions of NetNewsWire</a><br>
 <a href="https://inessential.com/">inessential.com</a> - Brent’s blog<br>
 <a href="https://twitter.com/netnewswire">NetNewsWire on Twitter</a> (yes, we know how that looks, but we’re pragmatic)</p>
 

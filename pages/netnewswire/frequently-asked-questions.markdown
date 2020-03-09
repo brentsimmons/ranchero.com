@@ -1,11 +1,8 @@
 @template nnw_page.html
 @title Frequently Asked Questions
+@description Answers to frequently asked questions about NetNewsWire.
 
-*Last update: 6 March 2020*
-
-## Are you planning an iOS version?
-
-Yes — in fact, it’s about to ship!
+*Last update: 8 March 2020*
 
 ## The iOS app has Feedly syncing, but the Mac app doesn’t. Will you be bringing Feedly syncing to the Mac app?
 
@@ -32,6 +29,10 @@ We realize that we’re stretching the meaning of “Today,” but we’ve decid
 Supporting older versions of macOS takes a lot of work! We decided to prioritize features — such as supporting more syncing systems (Feedly, etc.) — instead.
 
 Also, we specifically chose 10.14.4 and up because that’s the first release where we wouldn’t have to include the Swift libraries with the app. This meant a dramatic reduction in size.
+
+## Can I get older versions of NetNewsWire for Mac that might run on my older Mac?
+
+Yes! See [Old Versions of NetNewsWire](old-versions).
 
 ## Where should I report bugs and make feature requests?
 

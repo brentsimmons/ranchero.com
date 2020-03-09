@@ -1,5 +1,6 @@
 @template nnw_page.html
 @title NetNewsWire 5 for iOS Public TestFlight
+@description When testing is open, you can sign up here to join our TestFlight testing program.
 
 <b>Note: testing is closed because we’re about to ship!</b> But we’ve preserved this page in case there’s any useful info here.
 

@@ -1,5 +1,6 @@
 @template nnw_page.html
 @title Privacy Policy
+@description Our privacy policy explains what information we get and how we use it.
 
 This policy describes the information Ranchero Software and Brent Simmons may receive from NetNewsWire users and how that information is handled.
 
@@ -17,9 +18,9 @@ Details on these, and other privacy topics, are below.
 If you opt in to sending crash logs, we will have a copy of your crash logs.
 
 * If you’re using an App Store version of the app, and you opt in with Apple, then Apple has a copy and we have a copy.
-* If you’re using a version downloaded directly from us, and you opt in, then it’s just us.
+* If you’re using a Mac version downloaded directly from us, and you opt in, then it’s just us.
 
-When NetNewsWire sends a crash log directly to us, it sends only the text of the crash log. No additional information, such as email address, is sent (though our website logging system — see below — will record some information, including time and IP address).
+When NetNewsWire for Mac sends a crash log directly to us, it sends only the text of the crash log. No additional information, such as email address, is sent (though our website logging system — see below — will record some information, including time and IP address).
 
 Crash logs are stored privately and are kept confidential.
 

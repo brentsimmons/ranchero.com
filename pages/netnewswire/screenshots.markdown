@@ -1,5 +1,6 @@
 @template nnw_screenshots.html
 @title Screenshots
+@description View screenshots for NetNewsWire 5 for Mac.
 
 You are welcome to use these in blog posts, reviews, and so on.
 

@@ -8,7 +8,7 @@
 
 <div class="separator"></div>
 
-<p>It is not a company or even a formal organization. It’s just people working together, and <a href="https://github.com/Ranchero-Software/NetNewsWire/blob/master/CONTRIBUTING.md">everyone is welcome to help out</a>. Everyone is encouraged, even — please do help us out! You can find our <a href="https://github.com/ranchero-software">repositories on GitHub</a>.</p>
+<p>It is not a company or even a formal organization. It’s just people working together, and <a href="https://github.com/Ranchero-Software/NetNewsWire/blob/master/CONTRIBUTING.md">everyone is welcomed — and encouraged! — to help out</a>. You can find our <a href="https://github.com/ranchero-software">repositories on GitHub</a>.</p>
 
 <p>We’re an enthusiastic team of people from around the world. And we think it’s the hottest team in the Mac and iOS worlds. 🐥</p>
 
@@ -24,7 +24,7 @@
 <div class="box">
 <p><a href="netnewswire/"><img class="centeredimage" src="https://ranchero.com/images/nnw_icon_256.png" height="256" width="256" alt="NetNewsWire for Mac icon: globe with a satellite in the foreground." /></a></p>
 <p><span class="largertext"><b><a href="/netnewswire/">NetNewsWire</a></b></span><br>
-RSS reader for Mac. iOS app coming soon.</p>
+RSS reader for Mac and iOS.</p>
 </div>
 
 <div class="box">

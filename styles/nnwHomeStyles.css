@@ -88,7 +88,6 @@ article h2 {
 	background-color: rgba(255, 255, 255, 0.1);
 	padding-top: 2em;
 	padding-bottom: 2em;
-	text-align: center;
 }
 .lighterbackground {
 	background-color: rgba(255, 255, 255, 0.1);
@@ -130,7 +129,7 @@ code, pre {
  	margin-bottom: 2em;
  }
 .systemrequirements {
-	color: rgba(255, 255, 255, 0.5);
+	color: rgba(255, 255, 255, 0.65);
 }
 .pressdate {
 	color: rgba(255, 255, 255, 0.5);
@@ -147,21 +146,23 @@ code, pre {
 	padding-top: 2em;
 }
 .downloads {
-	background-color: #036BD9;
+	bacxkground-color: #036BD9;
+	background-color: rgba(255, 255, 255, 0.1);
 	padding-top: 1em;
 	padding-bottom: 1em;
-	color: rgba(255, 255, 255, 0.5);
+	color: rgba(255, 255, 255, 0.85);
 	text-align: center;
 	border-radius: 6px;
 	margin-top: 2em;
 	padding-left: 2em;
 	padding-right: 2em;
+	border: 1px solid rgba(0, 0, 0, 0.5);
 }
 .downloads a {
 	text-decoration: underline;
 	font-size: 1.3em;
 }
-.downloads a:link {
+.downloads a:link, .downloads a:visited {
 	color: rgba(255, 255, 255, 0.9);
 }
 .underlined {
