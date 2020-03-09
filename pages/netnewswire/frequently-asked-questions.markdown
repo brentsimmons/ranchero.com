@@ -18,6 +18,10 @@ Yes — we’d like to support all, or as many as possible, of the services lik
 
 If you’d like to volunteer to work on syncing for a specific service, please join the Slack group to make sure it’s not already in progress. We’ll also help you get started with it.
 
+## Does it sync via iCloud?
+
+No — or, at least, not yet. We think it would be a great feature, and we’re investigating the possibility.
+
 ## Why does the Today feed show the last 24 hours of articles?
 
 Because it’s not that great when you’re reading your feeds at midnight and the Today feed empties out.
