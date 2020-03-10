@@ -28,7 +28,19 @@ Because it’s not that great when you’re reading your feeds at midnight and t
 
 We realize that we’re stretching the meaning of “Today,” but we’ve decided that it’s okay. 🐣
 
-## Why doesn’t it run on macOS 10.13 (or earlier)?
+## The first time I ran the app, there were some feeds already in there. Where do they come from? Why are they there?
+
+We include some default feeds for new users — we think you’ll like at least some of them. You might even find a couple you didn’t know about, but that you like.
+
+The reason we include those feeds is so you have something to read right away. It’s especially useful for new users, who may not know how RSS readers work — this way they can see, without having to do anything at all, how the app works.
+
+You’re free to delete any or all of these feeds!
+
+The number of these default feeds is always 16, which, to a programmer, is a round number since it’s a power of two. We’ve been doing 16 feeds since NetNewsWire Lite 1.0 back in 2002. It’s a tradition. 🐥
+
+(We change the feeds from time to time. We don’t have any arrangements with the feed owners, though we usually ask permission — unless it’s something like Daring Fireball or Six Colors where it would obviously be no problem.)
+
+## Why doesn’t NetNewsWire for Mac run on macOS 10.13 (or earlier)?
 
 Supporting older versions of macOS takes a lot of work! We decided to prioritize features — such as supporting more syncing systems (Feedly, etc.) — instead.
 
