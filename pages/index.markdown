@@ -48,6 +48,7 @@ Database, scripting system, and development environment for Mac with easy ties t
 <li>Stability</li>
 <li>Lack of bugs</li>
 <li>Performance</li>
+<li>Accessibility</li>
 <li>Platform-specific design</li>
 </ul>
 
