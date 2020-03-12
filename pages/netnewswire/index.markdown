@@ -200,7 +200,7 @@
 
 <p><a href="https://github.com/brentsimmons/NetNewsWire/blob/master/CONTRIBUTING.md">We welcome contributors!</a> Contributions don’t have to be code. Just getting on the Slack group and talking things over is a contribution.</p>
 
-<p>The list of major contributors, after Brent Simmons, includes <a href="https://github.com/vincode-io">Maurice Parker</a>, <a href="https://twitter.com/BradEllis">Brad Ellis</a>, <a href="https://github.com/wevah">Nate Weaver</a>, <a href="https://github.com/kielgillard">Kiel Gillard</a>, <a href="https://github.com/olofhellman">Olof Hellman</a>, <a href="https://github.com/danielpunkass">Daniel Jalkut</a>, <a href="https://nostodnayr.net/">Ryan Dotson</a>, <a href="https://rhonabwy.com/">Joe Heck</a>, and <a href="https://github.com/Ranchero-Software/NetNewsWire/graphs/contributors">more</a>. Your name could be on that list!</p>
+<p>The list of major contributors, after Brent Simmons, includes <a href="https://github.com/vincode-io">Maurice Parker</a>, <a href="https://twitter.com/BradEllis">Brad Ellis</a>, <a href="https://github.com/wevah">Nate Weaver</a>, <a href="https://github.com/kielgillard">Kiel Gillard</a>, <a href="https://brehaut.net/">Andrew Brehaut</a>, <a href="https://github.com/olofhellman">Olof Hellman</a>, <a href="https://github.com/danielpunkass">Daniel Jalkut</a>, <a href="https://nostodnayr.net/">Ryan Dotson</a>, <a href="https://rhonabwy.com/">Joe Heck</a>, and <a href="https://github.com/Ranchero-Software/NetNewsWire/graphs/contributors">more</a>. Your name could be on that list!</p>
 
 <p>Also see <a href="https://github.com/brentsimmons/NetNewsWire/blob/master/Technotes/HowToSupportNetNewsWire.markdown">How to Support NetNewsWire</a>. Spoiler: don’t send money. 🐯</p>
 
