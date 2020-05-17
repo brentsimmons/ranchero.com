@@ -8,9 +8,9 @@
 
 <div class="separator"></div>
 
-<p>It is not a company or even a formal organization. It’s just people working together, and <a href="https://github.com/Ranchero-Software/NetNewsWire/blob/master/CONTRIBUTING.md">everyone is welcomed — and encouraged! — to help out</a>. You can find our <a href="https://github.com/ranchero-software">repositories on GitHub</a>.</p>
+<p>It is not a company or even a formal organization. We’re an enthusiastic team of people from around the world, and <a href="https://github.com/Ranchero-Software/NetNewsWire/blob/master/CONTRIBUTING.md">everyone is encouraged to help out</a>. You can find our <a href="https://github.com/ranchero-software">repositories on GitHub</a>.</p>
 
-<p>We’re an enthusiastic team of people from around the world. And we think it’s the hottest team in the Mac and iOS worlds. 🐥</p>
+<p>And we think it’s the hottest team in the Mac and iOS worlds. 🐥</p>
 
 <div class="separator"></div>
 </div>
@@ -25,12 +25,6 @@
 <p><a href="netnewswire/"><img class="centeredimage" src="https://ranchero.com/images/nnw_icon_256.png" height="256" width="256" alt="NetNewsWire for Mac icon: globe with a satellite in the foreground." /></a></p>
 <p><span class="largertext"><b><a href="/netnewswire/">NetNewsWire</a></b></span><br>
 RSS reader for Mac and iOS.</p>
-</div>
-
-<div class="box">
-<p><span class="largertext"><b><a href="https://github.com/brentsimmons/Rainier">Rainier</a></b></span><br>
-Database, scripting system, and development environment for Mac with easy ties to the web. Inspired by UserLand Frontier.</p>
-<p>Not even close to shipping yet.</p>
 </div>
 
 <div class="separator"></div>
