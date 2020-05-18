@@ -7,7 +7,7 @@
 
 <p><span class="largertext"><b>NetNewsWire</b> is a free and open source RSS reader for <b>Mac</b> and <b>iOS</b>.</span></p>
 
-<div class="separator">&nbsp;</div>
+<div class="separator"></div>
 
 <p>NetNewsWire shows you articles from your favorite blogs and news sites — and keeps track of what you’ve read.</p>
 
@@ -23,7 +23,7 @@
 <p><a href="https://github.com/brentsimmons/NetNewsWire/releases/download/mac-5.0.3/NetNewsWire5.0.3.zip">Download NetNewsWire 5 for Mac</a><br>
 <span class="systemrequirements">Free! Requires macOS 10.14.4 or newer</span></p>
 
-<div class="separator">&nbsp;</div>
+<div class="separator"></div>
 
 <p><a href="https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210">Download NetNewsWire for iOS on the App Store</a><br>
 <span class="systemrequirements">Free! Requires iOS 13 or newer</span></p>
@@ -35,7 +35,7 @@
 
 <section class="widequote">
 <div class="innertext">
-<p>“It is fast, small, and remarkably stable. It looks and feels and acts exactly how a modern Mac app should — and at the same time it feels and acts exactly like the NetNewsWire of a decade ago.”<br>
+<p>“It is fast, small, and remarkably stable. It looks and feels and acts exactly how a modern Mac app should — and at the same time it feels and acts exactly like the NetNewsWire of a decade ago.”<br />
 <span class="quoteauthor">John Gruber, <a href="https://daringfireball.net/linked/2019/08/29/netnewswire-5">Daring Fireball</a></span></p>
 </div>
 </section>
@@ -45,13 +45,13 @@
 <p><img class="centeredimage" src="https://ranchero.com/images/nnw_icon_256.png" height=256 width=256 alt="NetNewsWire for Mac icon: globe with a satellite in the foreground." /></p>
 <h2>NetNewsWire for Mac</h2>
 
-<div class="separator">&nbsp;</div>
+<div class="separator"></div>
 
 <p class="largertext centeredtext"><a class="lightlink underlined" href="screenshots">See full-size screenshots</a></p>
 <p><a href="screenshots"><img class="centeredimage" src="https://ranchero.com/images/NNW5Light-Thumb.png" height="384" width="384" alt="Screenshot showing NetNewsWire in light mode." style="border:1px solid black" /></a></p>
 <p><a href="screenshots"><img class="centeredimage" src="https://ranchero.com/images/NNW5Dark-Thumb.png" height="384" width="384" alt="Screenshot showing NetNewsWire in dark mode." style="border:1px solid black" /></a></p>
 
-<div class="separator">&nbsp;</div>
+<div class="separator"></div>
 
 <p><b>Features</b></p>
 <ul>
