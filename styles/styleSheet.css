@@ -7,7 +7,7 @@ body {
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 1.2em;
 	color: rgba(255, 255, 255, 0.8);
-	background-color: hsl(214.4, 30%, 15%);
+	background-color: #333;
 }
 a {
 	text-decoration: none;
@@ -20,7 +20,7 @@ a:visited {
 }
 .separator {
  	height: 1px;
- 	background-color: rgba(255, 255, 255, 0.35);
+ 	backgroxund-color: rgba(0, 0, 0, 0.1);
  	margin-top: 2em;
  	margin-bottom: 2em;
 }
@@ -29,71 +29,53 @@ a:visited {
 	margin-left: auto;
 	margin-right: auto;
 }
-.innertext b {
-	color: rgba(255, 255, 255, 0.95);
-}
 main {
 	padding-top: 2em;
 	padding-bottom: 2em;
-	background-color: rgba(255, 255, 255, 0.1);
+	color: #333;
+	background-color: #fff;
 }
 header {
 	line-height: 2em;
-	padding-top: 24px;
+	padding-top: 0.25em;
+	padding-bottom: 0.15em;
 	text-align: center;
+	background-color: #333;
 }
 .biglink {
 	font-size: 36px;
 	display: block;
 	font-weight: bold;
-	margin-bottom: -0.5em;
 }
-.box {
-	margin-top: 2em;
-	margin-bottom: 2em;
-	padding: 2em;
- 	background-color: rgba(255, 255, 255, 0.1);
- 	border: 1px solid rgba(255, 255, 255, 0.35);
- 	border-radius: 6px;
- 	text-align: center;
-}
-.biglink a:link, .biglink a:visited, .box a:link, .box a:visited {
+.biglink a:link, .biglink a:visited {
 	color: rgba(255, 255, 255, 0.9);
 	text-decoration: none;
 }
-.box a:link, .box a:visited {
-	text-decoration: underline;
-}
 .hidden {
 	display: none;
-}
-.headerseparator {
- 	height: 1px;
- 	background-color: rgba(255, 255, 255, 0.35);
- 	margin-top: 2em;
- 	margin-bottom: 0;
 }
 .largertext {
 	font-size: 1.25em;
 }
 h2 {
-	text-align: center;
+	text-alxign: center;
 }
 nav {
   text-align: center;
-  margin-bottom: 1em;
-}
-.navseparator {
- 	height: 1px;
- 	background-color: rgba(255, 255, 255, 0.35);
- 	margin-top: 0;
- 	margin-bottom: 2em;
+  padding-top: 1em;
+  padding-bottom: 0.1em;
+  margin-bottom: 0em;
+	background-color: #333;
+	color: rgba(255, 255, 255, 0.8);
 }
 footer {
-	margin-top: 0;
+	margin-top: 0em;
 	margin-bottom: 0;
+	padding-top: 0.1em;
 	padding-bottom: 2em;
 	text-align: center;
+	background-color: #333;
+	color: rgba(255, 255, 255, 0.8);
 }
 code, pre {
 	font-family: "SF Mono", Menlo, "Courier", monospace;
