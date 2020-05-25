@@ -4,13 +4,13 @@
 <div class="innertext">
 <h1 class="hidden">Ranchero Software</h1>
 
-<p><a href="netnewswire/"><img class="centeredimage" src="https://ranchero.com/images/nnw_icon_256.png" height="256" width="256" alt="NetNewsWire for Mac icon: globe with a satellite in the foreground." /></a></p>
+<p><a href="netnewswire/"><img class="centeredimage extrabottommargin" src="https://ranchero.com/images/nnw_icon_256.png" height="256" width="256" alt="NetNewsWire for Mac icon: globe with a satellite in the foreground." /></a></p>
 
-<p>We make <a href="netnewswire/">NetNewsWire</a>, a free and open source RSS reader for Mac and iOS.</p>
+<p><b>We make <a href="netnewswire/">NetNewsWire</a>, a free and open source RSS reader for Mac and iOS.</b></p>
 
-<p>Ranchero Software is not a company or even a formal organization. It’s an enthusiastic group of volunteers from around the world, led by <a href="https://inessential.com/">Brent Simmons</a>. You can find our <a href="https://github.com/ranchero-software">repositories on GitHub</a>.</p>
+<p>Ranchero Software is not a company or even a formal organization. It’s an enthusiastic group of volunteers from around the world, led by <a href="https://inessential.com/">Brent Simmons</a>.</p>
 
-<p><a href="https://github.com/Ranchero-Software/NetNewsWire/blob/master/CONTRIBUTING.md">Join the hottest team</a> in the Mac and iOS community! 🐥</p>
+<p>You can find our <a href="https://github.com/ranchero-software">repositories on GitHub</a> — and <a href="https://github.com/Ranchero-Software/NetNewsWire/blob/master/CONTRIBUTING.md">join the hottest team</a> in the Mac and iOS community! 🐥</p>
 
 <div class="separator"></div>
 <h2>Philosophy</h2>

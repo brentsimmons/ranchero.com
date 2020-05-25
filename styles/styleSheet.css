@@ -18,11 +18,21 @@ a:link {
 a:visited {
 	color: rgba(110, 153, 139, 1.0);
 }
-.separator {
+.headerseparator {
  	height: 1px;
- 	backgroxund-color: rgba(0, 0, 0, 0.1);
- 	margin-top: 2em;
+ 	background-color: rgba(0, 0, 0, 0.4);
+}
+.navseparator {
+ 	height: 1px;
+ 	background-color: rgba(0, 0, 0, 0.2);
  	margin-bottom: 2em;
+}
+.ac {
+ 	height: 1px;
+ 	background-color: rgba(255, 255, 255, 0.15);
+}
+.extrabottommargin {
+	margin-bottom: 2em;
 }
 .innertext {
 	max-width: 650px;
@@ -31,14 +41,12 @@ a:visited {
 }
 main {
 	padding-top: 2em;
-	padding-bottom: 2em;
-	color: #333;
-	background-color: #fff;
+	padding-bottom: 3em;
+	background-color: rgba(255, 255, 255, 0.05);
 }
 header {
 	line-height: 2em;
 	padding-top: 0.25em;
-	padding-bottom: 0.15em;
 	text-align: center;
 	background-color: #333;
 }
@@ -58,15 +66,12 @@ header {
 	font-size: 1.25em;
 }
 h2 {
-	text-alxign: center;
+	margin-top: 3em;
 }
 nav {
   text-align: center;
-  padding-top: 1em;
   padding-bottom: 0.1em;
   margin-bottom: 0em;
-	background-color: #333;
-	color: rgba(255, 255, 255, 0.8);
 }
 footer {
 	margin-top: 0em;
@@ -74,8 +79,6 @@ footer {
 	padding-top: 0.1em;
 	padding-bottom: 2em;
 	text-align: center;
-	background-color: #333;
-	color: rgba(255, 255, 255, 0.8);
 }
 code, pre {
 	font-family: "SF Mono", Menlo, "Courier", monospace;
