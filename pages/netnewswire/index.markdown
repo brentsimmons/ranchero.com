@@ -20,7 +20,7 @@
 <p>Take back control of your news. And have fun doing it! 🐣🐥 </p>
 
 <div class="downloads">
-<p><a href="https://github.com/brentsimmons/NetNewsWire/releases/download/mac-5.0.3/NetNewsWire5.0.3.zip">Download NetNewsWire 5 for Mac</a><br>
+<p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.0.4/NetNewsWire5.0.4.zip">Download NetNewsWire 5 for Mac</a><br>
 <span class="systemrequirements">Free! Requires macOS 10.14.4 or newer</span></p>
 
 <div class="separator"></div>
@@ -79,7 +79,7 @@
 <p>Or just download it and get started. It’s easy!</p>
 
 <div class="downloads">
-<p><a href="https://github.com/brentsimmons/NetNewsWire/releases/download/mac-5.0.3/NetNewsWire5.0.3.zip">Download NetNewsWire 5 for Mac</a><br>
+<p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.0.4/NetNewsWire5.0.4.zip">Download NetNewsWire 5 for Mac</a><br>
 <span class="systemrequirements">Free! Requires macOS 10.14.4 or newer</span></p>
 </div>
 
