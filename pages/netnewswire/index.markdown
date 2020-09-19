@@ -20,8 +20,8 @@
 <p>Take back control of your news. And have fun doing it! 🐣🐥 </p>
 
 <div class="downloads">
-<p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.0.4/NetNewsWire5.0.4.zip">Download NetNewsWire 5 for Mac</a><br>
-<span class="systemrequirements">Free! Requires macOS 10.14.4 or newer</span></p>
+<p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.1/NetNewsWire5.1.zip">Download NetNewsWire for Mac</a><br>
+<span class="systemrequirements">Free! Requires macOS 10.15 or newer</span></p>
 
 <div class="separator"></div>
 
@@ -57,7 +57,8 @@
 <ul>
   <li>Safari extension for easy feed-adding</li>
   <li>Direct feed-downloading</li>
-  <li>Syncing via Feedbin</li>
+  <li>Syncing via Feedbin and Feedly</li>
+  <li>Reader view</li>
   <li>Sharing to Mail, MarsEdit, Micro.blog, Notes, Messages, and so on</li>
   <li>Easy keyboard navigation</li>
   <li>Single-key keyboard shortcuts</li>
@@ -65,22 +66,24 @@
   <li>Dark Mode</li>
   <li>Starred articles</li>
   <li>All Unread and Today smart feeds</li>
+  <li>Hiding read articles and read feeds</li>
   <li>Folders</li>
 	<li>Background refreshing</li>
   <li>Importing and exporting OPML feed lists</li>
   <li>Searching</li>
   <li>Multiple accounts</li>
   <li>Customizable toolbar</li>
+  <li>Support for multiple windows</li>
 </ul>
 
 <div class="separator">&nbsp;</div>
 
-<p>Check out the <a href="https://ranchero.com/netnewswire/help/mac/5.0/en/">Help book</a> to learn more about how NetNewsWire works.</p>
+<p>Check out the <a href="https://ranchero.com/netnewswire/help/mac/5.1/en/">Help book</a> to learn more about how NetNewsWire works.</p>
 <p>Or just download it and get started. It’s easy!</p>
 
 <div class="downloads">
-<p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.0.4/NetNewsWire5.0.4.zip">Download NetNewsWire 5 for Mac</a><br>
-<span class="systemrequirements">Free! Requires macOS 10.14.4 or newer</span></p>
+<p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.1/NetNewsWire5.1.zip">Download NetNewsWire for Mac</a><br>
+<span class="systemrequirements">Free! Requires macOS 10.5 or newer</span></p>
 </div>
 
 </div>
