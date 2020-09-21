@@ -83,7 +83,7 @@
 
 <div class="downloads">
 <p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.1/NetNewsWire5.1.zip">Download NetNewsWire for Mac</a><br>
-<span class="systemrequirements">Free! Requires macOS 10.5 or newer</span></p>
+<span class="systemrequirements">Free! Requires macOS 10.15 or newer</span></p>
 </div>
 
 </div>
