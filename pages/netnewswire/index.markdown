@@ -20,7 +20,7 @@
 <p>Take back control of your news. And have fun doing it! 🐣🐥 </p>
 
 <div class="downloads">
-<p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.1/NetNewsWire5.1.zip">Download NetNewsWire for Mac</a><br>
+<p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.1.1/NetNewsWire5.1.1.zip">Download NetNewsWire for Mac</a><br>
 <span class="systemrequirements">Free! Requires macOS 10.15 or newer</span></p>
 
 <div class="separator"></div>
@@ -82,7 +82,7 @@
 <p>Or just download it and get started. It’s easy!</p>
 
 <div class="downloads">
-<p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.1/NetNewsWire5.1.zip">Download NetNewsWire for Mac</a><br>
+<p><a href="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.1.1/NetNewsWire5.1.1.zip">Download NetNewsWire for Mac</a><br>
 <span class="systemrequirements">Free! Requires macOS 10.15 or newer</span></p>
 </div>
 
