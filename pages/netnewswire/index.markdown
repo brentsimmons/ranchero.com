@@ -18,7 +18,7 @@
 
 <p>This means you can stop going from page to page in your browser looking for new articles to read. Do it the easy way instead: let NetNewsWire bring you the news.</p>
 
-<p>And, if you’ve been getting your news from Facebook and Twitter — with their ads, algorithms, user tracking, outrage, and misinformation — you can switch to NetNewsWire to get news directly and more reliably from the sites you trust.</p>
+<p>And, if you’ve been getting your news via Facebook — with its ads, algorithms, user tracking, outrage, and misinformation — you can switch to NetNewsWire to get news directly and more reliably from the sites you trust.</p>
 
 <p>Take back control of your news. With free, high-quality, native apps for Mac and iOS.</p>
 
