@@ -4,7 +4,7 @@
 <div class="innertext">
 <h1 class="hidden">Ranchero Software</h1>
 
-<p>Ranchero Software is a group of volunteers, led by <a href="https://inessential.com/">Brent Simmons</a>, that makes <a href="https://ranchero.com/netnewswire/">NetNewsWire</a>, a free and open source RSS reader for Mac and iOS.</p>
+<p>Ranchero Software is a group of volunteers, led by <a href="https://inessential.com/">Brent Simmons</a>, that makes <a href="https://netnewswire.com/">NetNewsWire</a>, a free and open source RSS reader for Mac and iOS.</p>
 
 <p>You can find our <a href="https://github.com/ranchero-software">repositories on GitHub</a>.</p>
 
