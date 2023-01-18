@@ -44,9 +44,11 @@ a:visited {
 	margin-right: auto;
 }
 .innertext h1 {
-	margin-top: 6em;
+	margin-top: 3em;
 }
-
+h1 {
+	line-height: 1em;
+}
 main {
 	padding-top: 0em;
 	padding-bottom: 3em;
