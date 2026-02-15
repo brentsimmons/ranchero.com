@@ -1,0 +1,13 @@
+@dbid 1040
+@title How to get the URL of the current tab
+@link 
+@pubDate Mon Mar 21 17:38:26 -0800 2005
+@modDate Mon Mar 21 17:40:27 -0800 2005
+@categoryArray NetNewsWire, NetNewsWire-Scripts
+Here’s a short AppleScript script which gets the URL of the current tab. If the current tab is the News Items tab, then the URL is just an empty string.</p>
+
+<p><pre>tell application "NetNewsWire"
+	set urlsList to URLs of tabs
+	set ixCurrentTab to index of selected tab
+	item (ixCurrentTab + 1) of urlsList
+end tell</pre>

@@ -1,0 +1,11 @@
+@dbid 1909
+@title Bypassing Objective-C's Message Passing Mechanism for Speed
+@link http://blogs.ittoolbox.com/emergingtech/macsploitation/archives/bypassing-objectivecs-message-passing-mechanism-for-speed-24946
+@pubDate Tue May 27 21:15:18 -0700 2008
+@modDate Tue May 27 21:15:18 -0700 2008
+<p>
+<a href="http://blogs.ittoolbox.com/emergingtech/macsploitation/archives/bypassing-objectivecs-message-passing-mechanism-for-speed-24946">hohlecow</a>: “When possible, I like to use Objective-C for its pure encapsulation. The convenience of message passing in Objective-C, however, can be a performance hinderance when calling methods several thousand times in succession. Thankfully, there are several options for getting great performance out of critical code paths in Objective-C applications.” (Via <a href="http://jim.roepcke.com/7962">Jim Roepcke</a>.)
+</p>
+<p>
+I hesitate to point to things like this, however interesting, because people get the idea that grown-up Objective-C programming is like this. It’s not. It’s important to understand your environment and know what’s possible, but in most real-world cases this is not the type of optimization a Cocoa program needs. (I say <em>most</em>, but not all, of course.)
+</p>

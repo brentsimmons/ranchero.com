@@ -1,8 +1,16 @@
 @site_name Ranchero
 @site_url https://ranchero.com/
 @output_file_suffix .html
-@output_folder /Users/brent/Sites/ranchero.com/
-@favicon_url https://ranchero.com/images/nnw_icon_32.png
-@icon_url https://ranchero.com/images/nnw_icon_256.png
-@has_blog false
+@output_folder /Users/brent/Sites/ranchero/
+@has_blog true
+@blog_number_of_posts_on_home_page 20
+@blog_home_page_title weblog
+@blog_archive_title weblog archive
+@blog_relative_path (empty-string)
+@feed_number_of_posts 20
+@feed_title ranchero.com
+@feed_description Brent Simmons's linklog.
+@feed_author Brent Simmons
+@feed_author_url https://inessential.com/
+@feed_author_avatar_url https://ranchero.com/downloads/brent_avatar.png
 @rsync_remote_path 209.38.65.123:/var/www/ranchero.com/html/
