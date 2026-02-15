@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>[[@site_name]]</title>
-    <link>https://ranchero.com/evergreen/blog/</link>
+    <link>https://ranchero.com/</link>
     <description>[[@feed_description]]</description>
-		<language>en</language>
+	<language>en</language>
 	
 [[@items]]
     
