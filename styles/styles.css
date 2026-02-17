@@ -54,7 +54,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 12px;
+	font-size: 17px;
 	line-height: 1.6em;
 	color: var(--text-color);
 	background-color: var(--body-background);
@@ -99,7 +99,7 @@ header h1 a:visited {
 }
 header .tagline {
 	margin: 0;
-	font-size: 11px;
+	font-size: 17px;
 	color: var(--tagline-color);
 }
 
@@ -113,9 +113,10 @@ header .tagline {
 #topnav {
 	max-width: var(--content-width);
 	margin: 0 auto;
-	padding: 1px 2px;
+	padding: 6px 2px;
 	text-align: right;
-	font-size: 11px;
+	font-size: 17px;
+	font-weight: bold;
 }
 #topnav a {
 	color: var(--chrome-text);
@@ -149,8 +150,8 @@ main {
 	padding-bottom: 16px;
 }
 .weblogPost h3 {
-	margin: 0 0 4px 0;
-	font-size: 13px;
+	margin: 8px 0 4px 0;
+	font-size: 17px;
 	font-weight: bold;
 }
 .weblogPost h3 a {
@@ -172,7 +173,7 @@ main {
 	margin: 0 0 14px 0;
 }
 .weblogPostDateline {
-	font-size: 10px;
+	font-size: 17px;
 	font-weight: bold;
 	color: var(--dateline-color);
 	text-shadow: 0 1px 0 var(--highlight-shadow);
@@ -204,7 +205,7 @@ footer {
 	max-width: var(--content-width);
 	margin: 0 auto;
 	padding: 32px 2px 36px 2px;
-	font-size: 10px;
+	font-size: 17px;
 	color: var(--footer-text);
 }
 footer a {
@@ -228,6 +229,9 @@ footer p + p {
 /* Responsive */
 
 @media (max-width: 700px) {
+	body {
+		font-size: 17px;
+	}
 	header {
 		padding: 14px 12px;
 	}
@@ -251,10 +255,10 @@ footer p + p {
 		font-size: 17px;
 	}
 	header .tagline {
-		font-size: 10px;
+		font-size: 17px;
 	}
 	#topnav {
-		font-size: 10px;
+		font-size: 17px;
 		padding: 2px 12px;
 		text-align: left;
 	}
