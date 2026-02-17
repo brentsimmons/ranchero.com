@@ -21,6 +21,8 @@
 	--body-background: #faf8f5;
 	--content-background: #faf8f5;
 	--content-width: 650px;
+	--blockquote-border: var(--dateline-color);
+	--blockquote-color: rgb(0, 0, 0, 0.5);
 }
 
 /* Dark mode */
@@ -47,6 +49,7 @@
 		--footer-border: #0a0808;
 		--highlight-shadow: transparent;
 		--nav-shadow: transparent;
+		--blockquote-color: rgb(255, 255, 255, 0.5);
 	}
 }
 
@@ -167,7 +170,7 @@ main {
 }
 .weblogPostBody {
 	margin: 0;
-	line-height: 1.4em;
+	line-height: 1.6em;
 }
 .weblogPostBody p {
 	margin: 0 0 14px 0;
@@ -193,6 +196,14 @@ main {
 
 .archive-link {
 	margin-top: 16px;
+}
+
+blockquote {
+	color: var(--blockquote-color);
+	border-left: 3px solid var(--blockquote-border);
+	padding-left: 18px;
+	margin-left: 0px;
+	font-style: normal;
 }
 
 /* Footer */
